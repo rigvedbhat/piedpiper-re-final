@@ -1,0 +1,146 @@
+official_name,kaggle_name,state,asi_circle,match_method,match_confidence,validated
+Taj Mahal,Taj Mahal,Uttar Pradesh,Agra,manual_alias,1.0,True
+Agra Fort,Agra Fort,Uttar Pradesh,Agra,normalized_exact,0.95,True
+Fatehpur Sikri,,,Agra,unmatched,0.0,False
+Akbar Tomb Sikandra,,,Agra,unmatched,0.0,False
+"Mariam Tomb, Sikandra",,,Agra,unmatched,0.0,False
+Itimad-ud- Daulah Tomb,,,Agra,unmatched,0.0,False
+Ram Bagh,,,Agra,unmatched,0.0,False
+Mehtab Bagh,,,Agra,unmatched,0.0,False
+Mausoleum,,,Agra,unmatched,0.0,False
+Site of Sahet Mahet,,,Lucknow,unmatched,0.0,False
+Residency Buildings,,,Lucknow,unmatched,0.0,False
+Piprahwa & Ganwaria,,,Lucknow,unmatched,0.0,False
+"Gupta & Varah Temple, Deogarh",,,Jhansi,unmatched,0.0,False
+Kalinjar Fort,,,Jhansi,unmatched,0.0,False
+Rani Lakshmi Bai Mahal,,,Jhansi,unmatched,0.0,False
+Rani Jhansi Fort,,,Jhansi,unmatched,0.0,False
+Lord Cornwallis Tomb,,,Sarnath,unmatched,0.0,False
+Old Fort (Shahi Fort) Jaunpur,,,Sarnath,unmatched,0.0,False
+Observatory of Man Singh,,,Sarnath,unmatched,0.0,False
+Excavated Remains at Sarnath,,,Sarnath,unmatched,0.0,False
+Tomb of Lal Khan,,,Sarnath,unmatched,0.0,False
+Ancient Buddhist Site know as Chaukhandi stupa,,,Sarnath,unmatched,0.0,False
+"Bekal Fort, Pallikkare Distt. Kasargod",,,Thrissur,unmatched,0.0,False
+Mattancherry Palace Museum Kochi,,,Thrissur,unmatched,0.0,False
+Fort Palakkad,,,Thrissur,unmatched,0.0,False
+"Fort St. Angelo, Kannur",,,Thrissur,unmatched,0.0,False
+"Group of Monuments, Mamallapuram",,,Chennai,unmatched,0.0,False
+Gingee Fort,,,Chennai,unmatched,0.0,False
+"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",,,Chennai,unmatched,0.0,False
+"Fort, St. George",,,Chennai,unmatched,0.0,False
+"Fort on Rock, Dindigul",,,Thiruchirapalli,unmatched,0.0,False
+Moovarkoil Kodambalur,,,Thiruchirapalli,unmatched,0.0,False
+"Rock Cut Jain Temple, Sittanavasal",,,Thiruchirapalli,unmatched,0.0,False
+"Tirumalai Nayak's Palace, Srivilliputhur",,,Thiruchirapalli,unmatched,0.0,False
+"Natural Caven with Inscription Eladipattam, Sittannavasal",,,Thiruchirapalli,unmatched,0.0,False
+Fort Museum Tirumayam,,,Thiruchirapalli,unmatched,0.0,False
+Fort Vattakottai,,,Thiruchirapalli,unmatched,0.0,False
+"Buddhist Caves Bagh, Mandu",,,Bhopal,unmatched,0.0,False
+The Palace in the Fort Burhanpur,,,Bhopal,unmatched,0.0,False
+"Hoshang Shah’s Tomb,",,,Bhopal,unmatched,0.0,False
+"Group of Monuments, Royal Palace Mandu",,,Bhopal,unmatched,0.0,False
+"Roopmati’s Pavilion,",,,Bhopal,unmatched,0.0,False
+"Buddhist Monuments, Sanchi",,,Bhopal,unmatched,0.0,False
+Gwalior Fort,Gwalior Fort,Madhya Pradesh,Bhopal,normalized_exact,0.95,True
+"Buddhist Cave No.01 to 51, Dhamnar, Tehsil Garoth",,,Bhopal,unmatched,0.0,False
+"Badal Mahal Gateway, Chanderi",,,Bhopal,unmatched,0.0,False
+Caves 1 to 20 Udaygiri Vidisha,,,Bhopal,unmatched,0.0,False
+Bir Singh Palace Datia,,,Bhopal,unmatched,0.0,False
+"Ancient site and Adamgarh Rock Shelter, Kalamdi Rasuliya and Kishanpur",,,Bhopal,unmatched,0.0,False
+"Western Group of Temples, Khajuraho",Khajuraho Group of Monuments,Madhya Pradesh,Bhopal,manual_alias,1.0,True
+"Group of Temple, Paramesh var Shiv and Karan Temple, Amarkantak",,,Bhopal,unmatched,0.0,False
+"Durga Temple, Aihole",,,Dharwad,unmatched,0.0,False
+"Jaina & Vaishnava Cave, Badami",,,Dharwad,unmatched,0.0,False
+"Group of Monuments (WH), Pattadakal",,,Dharwad,unmatched,0.0,False
+"Gol-Gumbaz, Vijayapura",,,Dharwad,unmatched,0.0,False
+"Ibrahim Rauza, Vijayapura",,,Dharwad,unmatched,0.0,False
+"Temples & Sculpture shed, Lakkumdi",,,Dharwad,unmatched,0.0,False
+"Group of Monuments, Hampi",,,Hampi,unmatched,0.0,False
+Bellary Fort,,,Hampi,unmatched,0.0,False
+Daryia Daulat Baghtna,,,Bangalore,unmatched,0.0,False
+Keshava Temple,,,Bangalore,unmatched,0.0,False
+Palace of Tipu Sultan,,,Bangalore,unmatched,0.0,False
+Fortress and Temple Chitradurga Fort,,,Bangalore,unmatched,0.0,False
+Cooch Bihar Palace,Cooch Behar Palace,West Bengal,Raiganj,conservative_fuzzy,0.9444444444444444,False
+Hazarduari Palace,Hazarduari Palace,West Bengal,Raiganj,normalized_exact,0.95,True
+Bishnupur Temples,,,Kolkata,unmatched,0.0,False
+Matcalfe-Hall,,,Kolkata,unmatched,0.0,False
+"Asokan Rock Edict, Junagadh",,,Rajkot,unmatched,0.0,False
+"Buddhisht Caves, Junagadh",,,Rajkot,unmatched,0.0,False
+"Baba Pyara Caves, Junagadh & Khaprakodia Caves Junagadh",,,Rajkot,unmatched,0.0,False
+Champaner Monuments Pavagadh,,,Vadodara,unmatched,0.0,False
+"Sun Temple, Modhera",,,Vadodara,unmatched,0.0,False
+"Rani Ki- Vav, Patan",,,Vadodara,unmatched,0.0,False
+"Rudabai Step Well, Adalaj",,,Vadodara,unmatched,0.0,False
+"Sun Temple, Konarak",,,Bhubaneswar,unmatched,0.0,False
+Ancient Remains on both Udaigiri & Khandagiri Hills,,,Bhubaneswar,unmatched,0.0,False
+Rajarani Temple,,,Bhubaneswar,unmatched,0.0,False
+"The Hill Containing Many Valuable Sculptures and Images, Ratnagiri",,,Bhubaneswar,unmatched,0.0,False
+"Ruins of Buddhist Temples and Images, Lalitgiri",,,Bhubaneswar,unmatched,0.0,False
+Ajanta Caves,Ajanta Caves,Maharastra,Aurangabad,manual_alias,1.0,True
+Ellora Caves,Ellora Caves,Maharashtra,Aurangabad,manual_alias,1.0,True
+Tomb of Rabia Dura ni (Bibi Ka Maqbara),,,Aurangabad,unmatched,0.0,False
+Daulatabad Fort,,,Aurangabad,unmatched,0.0,False
+"Pandulena Caves, Nasik",,,Aurangabad,unmatched,0.0,False
+Aurangabad Caves,,,Aurangabad,unmatched,0.0,False
+Elephanta Caves,Elephanta Caves,Maharastra,Mumbai,manual_alias,1.0,True
+"Buddhist Caves, Kanheri",,,Mumbai,unmatched,0.0,False
+Shaniwarw ada,Shaniwar Wada,Maharastra,Mumbai,conservative_fuzzy,0.9230769230769231,False
+"Aga Khan Palace Building, Pune",,,Mumbai,unmatched,0.0,False
+"Cave, Temple and Inscriptions, Junnar",,,Mumbai,unmatched,0.0,False
+"Caves, Temples and inscriptions, Karla",,,Mumbai,unmatched,0.0,False
+"Cave, Temple & Inscriptions, Bhaja",,,Mumbai,unmatched,0.0,False
+Raigad Fort,,,Mumbai,unmatched,0.0,False
+"Kolaba Fort, Alibag",,,Mumbai,unmatched,0.0,False
+"Old Fort, Sholapur",,,Mumbai,unmatched,0.0,False
+"Janjira Fort, Murd",,,Mumbai,unmatched,0.0,False
+Kondiote Caves,,,Mumbai,unmatched,0.0,False
+Lohgad Fort,,,Mumbai,unmatched,0.0,False
+Gawilgarh Fort,,,Nagpur,unmatched,0.0,False
+"Ancient Buddhist Remains, comprising monstery stupa rock sculptures inscriptions etc mansar",,,Nagpur,unmatched,0.0,False
+Suraj Kund,,,Chandigarh,unmatched,0.0,False
+Sheikj Chillis Tomb,,,Chandigarh,unmatched,0.0,False
+Khan-I-Khana,,,Delhi,unmatched,0.0,False
+Sultan Garhi Tomb,,,Delhi,unmatched,0.0,False
+Tughlaqabad Fort,,,Delhi,unmatched,0.0,False
+Red Fort,Red Fort,Delhi,Delhi,normalized_exact,0.95,True
+Humayuns Tomb,Humayun's Tomb,Delhi,Delhi,conservative_fuzzy,0.9629629629629629,False
+Qutub Minar,Qutub Minar,Delhi,Delhi,manual_alias,1.0,True
+Hauzkhas,,,Delhi,unmatched,0.0,False
+Jantar Mantar,Jantar Mantar,Delhi,Delhi,normalized_exact,0.95,True
+Safdarjung Tomb,,,Delhi,unmatched,0.0,False
+Kotla Firoz Shah,,,Delhi,unmatched,0.0,False
+Purana Qila,,,Delhi,unmatched,0.0,False
+Ahom Raja’s Palace,,,Guwahati,unmatched,0.0,False
+Kareghar of Ahom Kings,,,Guwahati,unmatched,0.0,False
+Ranghar Pavillion Jaisagar Ruins,,,Guwahati,unmatched,0.0,False
+Bishnudol Temple,,,Guwahati,unmatched,0.0,False
+"Group of Four Maidams Charaideo, Sibsagar",,,Guwahati,unmatched,0.0,False
+Upper Fort Aguada,,,Goa,unmatched,0.0,False
+Charminar,Charminar,Telangana,Hyderabad,manual_alias,1.0,True
+Golkonda Fort,,,Hyderabad,unmatched,0.0,False
+Warangal Fort,,,Hyderabad,unmatched,0.0,False
+"Ancient Site, Bhangarh",,,Jaipur,unmatched,0.0,False
+Baori at Abhaneri,,,Jaipur,unmatched,0.0,False
+Deeg Bhawan,,,Jaipur,unmatched,0.0,False
+Chittaurgarh Fort,,,Jodhpur,unmatched,0.0,False
+Kumbhalgarh Fort,,,Jodhpur,unmatched,0.0,False
+Marble Pavillion and balustrade on the Ana Sagar Bund and ruins of the marble hammam behind the Ana Sagar Bund,,,Jodhpur,unmatched,0.0,False
+Ancient Palace Leh,,,Leh,unmatched,0.0,False
+Remains of Patliputra Site of Mauryan Place Kumrahar,,,Patna,unmatched,0.0,False
+"Ancient site of Vaishali, Kolhua",,,Patna,unmatched,0.0,False
+"Excavated Site, Nalanda",,,Patna,unmatched,0.0,False
+Ancient Site of Vikramshila,,,Patna,unmatched,0.0,False
+Sher Shah’s Tomb,,,Patna,unmatched,0.0,False
+"Temple of Laxman and old sites including sculptures Sirpur Temple, Sirpur",,,Raipur,unmatched,0.0,False
+Ruined fort Kangra Fort),,,Shimla,unmatched,0.0,False
+"Rock-cut Temples and Sculptures, Masrur",,,Shimla,unmatched,0.0,False
+"Palace complex at Ramnagar, Distt. Udhampur",,,Srinagar,unmatched,0.0,False
+"Avantiswamin Temple, Avantipur District Pulwana",,,Srinagar,unmatched,0.0,False
+"Group of Temples, Kiramchi, District Udhampur",,,Srinagar,unmatched,0.0,False
+Amaravati,,,Amaravati,unmatched,0.0,False
+Undavalli Caves,,,Amaravati,unmatched,0.0,False
+Nagarjuna Konda,,,Amaravati,unmatched,0.0,False
+Chandragiri Monuments,,,Amaravati,unmatched,0.0,False
+"Buddhist Remains, on hill top at Guntupalli W.G. District",,,Amaravati,unmatched,0.0,False

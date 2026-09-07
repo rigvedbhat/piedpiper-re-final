@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "tourism": "./src/agent/chat_graph.py:graph"
+  },
+  "env": ".env"
+}

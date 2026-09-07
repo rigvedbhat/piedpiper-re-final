@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+kaggle.json
+.env
+.langgraph_api/
+.pytest_cache/
+*.pkl
+*.joblib
+!models/.gitkeep
+.cursor/
+agent-transcripts/
+*.log

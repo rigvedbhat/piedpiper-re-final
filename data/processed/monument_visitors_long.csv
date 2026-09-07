@@ -1,0 +1,871 @@
+s_no,asi_circle,monument,period,year_index,domestic_visitors,foreign_visitors,total_visitors,flag_source_anomaly,flag_likely_extraction_error,flag_incomplete_pair,exclude_from_training,covid_year,recovery_year,post_covid
+89,Mumbai,"Aga Khan Palace Building, Pune",2019-20,0,219939.0,9264.0,229203.0,False,False,False,False,0,0,0
+89,Mumbai,"Aga Khan Palace Building, Pune",2020-21,1,18963.0,55.0,19018.0,False,False,False,False,1,0,0
+89,Mumbai,"Aga Khan Palace Building, Pune",2021-22,2,41150.0,197.0,41347.0,False,False,False,False,0,1,0
+89,Mumbai,"Aga Khan Palace Building, Pune",2022-23,3,187407.0,3121.0,190528.0,False,False,False,False,0,0,1
+89,Mumbai,"Aga Khan Palace Building, Pune",2023-24,4,249513.0,3645.0,253158.0,False,False,False,False,0,0,1
+89,Mumbai,"Aga Khan Palace Building, Pune",2024-25,5,214392.0,3837.0,218229.0,False,False,False,False,0,0,1
+2,Agra,Agra Fort,2019-20,0,1627154.0,386522.0,2013676.0,False,False,False,False,0,0,0
+2,Agra,Agra Fort,2020-21,1,371242.0,2810.0,374052.0,False,False,False,False,1,0,0
+2,Agra,Agra Fort,2021-22,2,1027462.0,13598.0,1041060.0,False,False,False,False,0,1,0
+2,Agra,Agra Fort,2022-23,3,1722213.0,139400.0,1861613.0,False,False,False,False,0,0,1
+2,Agra,Agra Fort,2023-24,4,1410397.0,218144.0,1628541.0,False,False,False,False,0,0,1
+2,Agra,Agra Fort,2024-25,5,1545550.0,224924.0,1770474.0,False,False,False,False,0,0,1
+114,Guwahati,Ahom Raja’s Palace,2019-20,0,44700.0,175.0,44875.0,False,False,False,False,0,0,0
+114,Guwahati,Ahom Raja’s Palace,2020-21,1,25443.0,69.0,25512.0,False,False,False,False,1,0,0
+114,Guwahati,Ahom Raja’s Palace,2021-22,2,34640.0,29.0,34669.0,False,False,False,False,0,1,0
+114,Guwahati,Ahom Raja’s Palace,2022-23,3,133792.0,151.0,133943.0,False,False,False,False,0,0,1
+114,Guwahati,Ahom Raja’s Palace,2023-24,4,107024.0,160.0,107184.0,False,False,False,False,0,0,1
+114,Guwahati,Ahom Raja’s Palace,2024-25,5,123656.0,175.0,123831.0,False,False,False,False,0,0,1
+80,Aurangabad,Ajanta Caves,2019-20,0,273344.0,15899.0,289243.0,False,False,False,False,0,0,0
+80,Aurangabad,Ajanta Caves,2020-21,1,47554.0,82.0,47636.0,False,False,False,False,1,0,0
+80,Aurangabad,Ajanta Caves,2021-22,2,138503.0,662.0,139165.0,False,False,False,False,0,1,0
+80,Aurangabad,Ajanta Caves,2022-23,3,401086.0,10437.0,411523.0,False,False,False,False,0,0,1
+80,Aurangabad,Ajanta Caves,2023-24,4,452182.0,18829.0,471011.0,False,False,False,False,0,0,1
+80,Aurangabad,Ajanta Caves,2024-25,5,442065.0,20855.0,462920.0,False,False,False,False,0,0,1
+4,Agra,Akbar Tomb Sikandra,2019-20,0,229270.0,19625.0,248895.0,False,False,False,False,0,0,0
+4,Agra,Akbar Tomb Sikandra,2020-21,1,99509.0,321.0,99830.0,False,False,False,False,1,0,0
+4,Agra,Akbar Tomb Sikandra,2021-22,2,187182.0,1028.0,188210.0,False,False,False,False,0,1,0
+4,Agra,Akbar Tomb Sikandra,2022-23,3,267509.0,9175.0,276684.0,False,False,False,False,0,0,1
+4,Agra,Akbar Tomb Sikandra,2023-24,4,199310.0,15914.0,215224.0,False,False,False,False,0,0,1
+4,Agra,Akbar Tomb Sikandra,2024-25,5,218139.0,16368.0,234507.0,False,False,False,False,0,0,1
+141,Amaravati,Amaravati,2019-20,0,8038.0,285.0,8323.0,False,False,False,False,0,0,0
+141,Amaravati,Amaravati,2020-21,1,1864.0,0.0,1864.0,False,False,False,False,1,0,0
+141,Amaravati,Amaravati,2021-22,2,3741.0,17.0,3758.0,False,False,False,False,0,1,0
+141,Amaravati,Amaravati,2022-23,3,5584.0,0.0,5584.0,False,False,False,False,0,0,1
+141,Amaravati,Amaravati,2023-24,4,6181.0,106.0,6287.0,False,False,False,False,0,0,1
+141,Amaravati,Amaravati,2024-25,5,7819.0,271.0,8090.0,False,False,False,False,0,0,1
+100,Nagpur,"Ancient Buddhist Remains, comprising monstery stupa rock sculptures inscriptions etc mansar",2019-20,0,1596.0,65.0,1661.0,False,False,False,False,0,0,0
+100,Nagpur,"Ancient Buddhist Remains, comprising monstery stupa rock sculptures inscriptions etc mansar",2020-21,1,8.0,0.0,8.0,False,False,False,False,1,0,0
+100,Nagpur,"Ancient Buddhist Remains, comprising monstery stupa rock sculptures inscriptions etc mansar",2021-22,2,,8.0,,False,False,True,True,0,1,0
+100,Nagpur,"Ancient Buddhist Remains, comprising monstery stupa rock sculptures inscriptions etc mansar",2022-23,3,3685.0,33.0,3718.0,False,False,False,False,0,0,1
+100,Nagpur,"Ancient Buddhist Remains, comprising monstery stupa rock sculptures inscriptions etc mansar",2023-24,4,3901.0,128.0,4029.0,False,False,False,False,0,0,1
+100,Nagpur,"Ancient Buddhist Remains, comprising monstery stupa rock sculptures inscriptions etc mansar",2024-25,5,3552.0,92.0,3644.0,False,False,False,False,0,0,1
+22,Sarnath,Ancient Buddhist Site know as Chaukhandi stupa,2019-20,0,55144.0,5186.0,60330.0,False,False,False,False,0,0,0
+22,Sarnath,Ancient Buddhist Site know as Chaukhandi stupa,2020-21,1,14956.0,46.0,15002.0,False,False,False,False,1,0,0
+22,Sarnath,Ancient Buddhist Site know as Chaukhandi stupa,2021-22,2,,,,False,False,False,True,0,1,0
+22,Sarnath,Ancient Buddhist Site know as Chaukhandi stupa,2022-23,3,,,,False,False,False,True,0,0,1
+22,Sarnath,Ancient Buddhist Site know as Chaukhandi stupa,2023-24,4,47495.0,5816.0,53311.0,False,False,False,False,0,0,1
+22,Sarnath,Ancient Buddhist Site know as Chaukhandi stupa,2024-25,5,36423.0,5351.0,41774.0,False,False,False,False,0,0,1
+129,Leh,Ancient Palace Leh,2019-20,0,56639.0,5671.0,62310.0,False,False,False,False,0,0,0
+129,Leh,Ancient Palace Leh,2020-21,1,2047.0,6.0,2053.0,False,False,False,False,1,0,0
+129,Leh,Ancient Palace Leh,2021-22,2,52402.0,176.0,52578.0,False,False,False,False,0,1,0
+129,Leh,Ancient Palace Leh,2022-23,3,60052.0,2610.0,62662.0,False,False,False,False,0,0,1
+129,Leh,Ancient Palace Leh,2023-24,4,87097.0,7924.0,95021.0,False,False,False,False,0,0,1
+129,Leh,Ancient Palace Leh,2024-25,5,86277.0,7660.0,93937.0,False,False,False,False,0,0,1
+76,Bhubaneswar,Ancient Remains on both Udaigiri & Khandagiri Hills,2019-20,0,311115.0,2489.0,313604.0,False,False,False,False,0,0,0
+76,Bhubaneswar,Ancient Remains on both Udaigiri & Khandagiri Hills,2020-21,1,73727.0,57.0,73784.0,False,False,False,False,1,0,0
+76,Bhubaneswar,Ancient Remains on both Udaigiri & Khandagiri Hills,2021-22,2,98754.0,119.0,98873.0,False,False,False,False,0,1,0
+76,Bhubaneswar,Ancient Remains on both Udaigiri & Khandagiri Hills,2022-23,3,469058.0,1724.0,470782.0,False,False,False,False,0,0,1
+76,Bhubaneswar,Ancient Remains on both Udaigiri & Khandagiri Hills,2023-24,4,991292.0,2721.0,994013.0,False,False,False,False,0,0,1
+76,Bhubaneswar,Ancient Remains on both Udaigiri & Khandagiri Hills,2024-25,5,1240354.0,2241.0,1242595.0,False,False,False,False,0,0,1
+133,Patna,Ancient Site of Vikramshila,2019-20,0,65573.0,436.0,66009.0,False,False,False,False,0,0,0
+133,Patna,Ancient Site of Vikramshila,2020-21,1,27583.0,,27583.0,False,True,False,True,1,0,0
+133,Patna,Ancient Site of Vikramshila,2021-22,2,33322.0,0.0,33322.0,False,False,False,False,0,1,0
+133,Patna,Ancient Site of Vikramshila,2022-23,3,75411.0,115.0,75526.0,False,False,False,False,0,0,1
+133,Patna,Ancient Site of Vikramshila,2023-24,4,79240.0,588.0,79828.0,False,False,False,False,0,0,1
+133,Patna,Ancient Site of Vikramshila,2024-25,5,97891.0,461.0,98352.0,False,False,False,False,0,0,1
+123,Jaipur,"Ancient Site, Bhangarh",2019-20,0,190833.0,1893.0,192726.0,False,False,False,False,0,0,0
+123,Jaipur,"Ancient Site, Bhangarh",2020-21,1,53946.0,85.0,54031.0,False,False,False,False,1,0,0
+123,Jaipur,"Ancient Site, Bhangarh",2021-22,2,147549.0,152.0,147701.0,False,False,False,False,0,1,0
+123,Jaipur,"Ancient Site, Bhangarh",2022-23,3,184391.0,1450.0,185841.0,False,False,False,False,0,0,1
+123,Jaipur,"Ancient Site, Bhangarh",2023-24,4,265999.0,2575.0,268574.0,False,False,False,False,0,0,1
+123,Jaipur,"Ancient Site, Bhangarh",2024-25,5,234945.0,2085.0,237030.0,False,False,False,False,0,0,1
+49,Bhopal,"Ancient site and Adamgarh Rock Shelter, Kalamdi Rasuliya and Kishanpur",2019-20,0,23354.0,18.0,23372.0,False,False,False,False,0,0,0
+49,Bhopal,"Ancient site and Adamgarh Rock Shelter, Kalamdi Rasuliya and Kishanpur",2020-21,1,16546.0,8.0,16554.0,False,False,False,False,1,0,0
+49,Bhopal,"Ancient site and Adamgarh Rock Shelter, Kalamdi Rasuliya and Kishanpur",2021-22,2,18655.0,41.0,18696.0,False,False,False,False,0,1,0
+49,Bhopal,"Ancient site and Adamgarh Rock Shelter, Kalamdi Rasuliya and Kishanpur",2022-23,3,17962.0,57.0,18019.0,False,False,False,False,0,0,1
+49,Bhopal,"Ancient site and Adamgarh Rock Shelter, Kalamdi Rasuliya and Kishanpur",2023-24,4,20248.0,0.0,20248.0,False,False,False,False,0,0,1
+49,Bhopal,"Ancient site and Adamgarh Rock Shelter, Kalamdi Rasuliya and Kishanpur",2024-25,5,21336.0,1.0,21337.0,False,False,False,False,0,0,1
+131,Patna,"Ancient site of Vaishali, Kolhua",2019-20,0,89631.0,12962.0,102593.0,False,False,False,False,0,0,0
+131,Patna,"Ancient site of Vaishali, Kolhua",2020-21,1,49207.0,,49207.0,False,True,False,True,1,0,0
+131,Patna,"Ancient site of Vaishali, Kolhua",2021-22,2,46095.0,28.0,46123.0,False,False,False,False,0,1,0
+131,Patna,"Ancient site of Vaishali, Kolhua",2022-23,3,108428.0,9673.0,118101.0,False,False,False,False,0,0,1
+131,Patna,"Ancient site of Vaishali, Kolhua",2023-24,4,71084.0,25602.0,96686.0,False,False,False,False,0,0,1
+131,Patna,"Ancient site of Vaishali, Kolhua",2024-25,5,70289.0,28795.0,99084.0,False,False,False,False,0,0,1
+68,Rajkot,"Asokan Rock Edict, Junagadh",2019-20,0,6176.0,168.0,6344.0,False,False,False,False,0,0,0
+68,Rajkot,"Asokan Rock Edict, Junagadh",2020-21,1,10498.0,16.0,10514.0,False,False,False,False,1,0,0
+68,Rajkot,"Asokan Rock Edict, Junagadh",2021-22,2,31685.0,27.0,31712.0,False,False,False,False,0,1,0
+68,Rajkot,"Asokan Rock Edict, Junagadh",2022-23,3,29110.0,177.0,29287.0,False,False,False,False,0,0,1
+68,Rajkot,"Asokan Rock Edict, Junagadh",2023-24,4,26193.0,240.0,26433.0,False,False,False,False,0,0,1
+68,Rajkot,"Asokan Rock Edict, Junagadh",2024-25,5,27611.0,297.0,27908.0,False,False,False,False,0,0,1
+85,Aurangabad,Aurangabad Caves,2019-20,0,182032.0,2690.0,184722.0,False,False,False,False,0,0,0
+85,Aurangabad,Aurangabad Caves,2020-21,1,34976.0,19.0,34995.0,False,False,False,False,1,0,0
+85,Aurangabad,Aurangabad Caves,2021-22,2,68642.0,79.0,68721.0,False,False,False,False,0,1,0
+85,Aurangabad,Aurangabad Caves,2022-23,3,115500.0,852.0,116352.0,False,False,False,False,0,0,1
+85,Aurangabad,Aurangabad Caves,2023-24,4,132518.0,1495.0,134013.0,False,False,False,False,0,0,1
+85,Aurangabad,Aurangabad Caves,2024-25,5,126327.0,1609.0,127936.0,False,False,False,False,0,0,1
+139,Srinagar,"Avantiswamin Temple, Avantipur District Pulwana",2019-20,0,9939.0,32.0,9971.0,False,False,False,False,0,0,0
+139,Srinagar,"Avantiswamin Temple, Avantipur District Pulwana",2020-21,1,5706.0,8.0,5714.0,False,False,False,False,1,0,0
+139,Srinagar,"Avantiswamin Temple, Avantipur District Pulwana",2021-22,2,24957.0,6.0,24963.0,False,False,False,False,0,1,0
+139,Srinagar,"Avantiswamin Temple, Avantipur District Pulwana",2022-23,3,44336.0,99.0,44435.0,False,False,False,False,0,0,1
+139,Srinagar,"Avantiswamin Temple, Avantipur District Pulwana",2023-24,4,43389.0,385.0,43774.0,False,False,False,False,0,0,1
+139,Srinagar,"Avantiswamin Temple, Avantipur District Pulwana",2024-25,5,41685.0,276.0,41961.0,False,False,False,False,0,0,1
+70,Rajkot,"Baba Pyara Caves, Junagadh & Khaprakodia Caves Junagadh",2019-20,0,5858.0,142.0,6000.0,False,False,False,False,0,0,0
+70,Rajkot,"Baba Pyara Caves, Junagadh & Khaprakodia Caves Junagadh",2020-21,1,1691.0,1.0,1692.0,False,False,False,False,1,0,0
+70,Rajkot,"Baba Pyara Caves, Junagadh & Khaprakodia Caves Junagadh",2021-22,2,2715.0,6.0,2721.0,False,False,False,False,0,1,0
+70,Rajkot,"Baba Pyara Caves, Junagadh & Khaprakodia Caves Junagadh",2022-23,3,2809.0,9.0,2818.0,False,False,False,False,0,0,1
+70,Rajkot,"Baba Pyara Caves, Junagadh & Khaprakodia Caves Junagadh",2023-24,4,2895.0,11.0,2906.0,False,False,False,False,0,0,1
+70,Rajkot,"Baba Pyara Caves, Junagadh & Khaprakodia Caves Junagadh",2024-25,5,3323.0,24.0,3347.0,False,False,False,False,0,0,1
+46,Bhopal,"Badal Mahal Gateway, Chanderi",2019-20,0,13708.0,89.0,13797.0,False,False,False,False,0,0,0
+46,Bhopal,"Badal Mahal Gateway, Chanderi",2020-21,1,9689.0,5.0,9694.0,False,False,False,False,1,0,0
+46,Bhopal,"Badal Mahal Gateway, Chanderi",2021-22,2,11027.0,6.0,11033.0,False,False,False,False,0,1,0
+46,Bhopal,"Badal Mahal Gateway, Chanderi",2022-23,3,8637.0,51.0,8688.0,False,False,False,False,0,0,1
+46,Bhopal,"Badal Mahal Gateway, Chanderi",2023-24,4,2887.0,9.0,2896.0,False,False,False,False,0,0,1
+46,Bhopal,"Badal Mahal Gateway, Chanderi",2024-25,5,14607.0,125.0,14732.0,False,False,False,False,0,0,1
+124,Jaipur,Baori at Abhaneri,2019-20,0,66821.0,85732.0,152553.0,False,False,False,False,0,0,0
+124,Jaipur,Baori at Abhaneri,2020-21,1,44284.0,115.0,44399.0,False,False,False,False,1,0,0
+124,Jaipur,Baori at Abhaneri,2021-22,2,57881.0,817.0,58698.0,False,False,False,False,0,1,0
+124,Jaipur,Baori at Abhaneri,2022-23,3,81401.0,39248.0,120649.0,False,False,False,False,0,0,1
+124,Jaipur,Baori at Abhaneri,2023-24,4,100468.0,96080.0,196548.0,False,False,False,False,0,0,1
+124,Jaipur,Baori at Abhaneri,2024-25,5,101710.0,116378.0,218088.0,False,False,False,False,0,0,1
+23,Thrissur,"Bekal Fort, Pallikkare Distt. Kasargod",2019-20,0,334846.0,728.0,335574.0,False,False,False,False,0,0,0
+23,Thrissur,"Bekal Fort, Pallikkare Distt. Kasargod",2020-21,1,115333.0,242.0,115575.0,False,False,False,False,1,0,0
+23,Thrissur,"Bekal Fort, Pallikkare Distt. Kasargod",2021-22,2,200127.0,133.0,200260.0,False,False,False,False,0,1,0
+23,Thrissur,"Bekal Fort, Pallikkare Distt. Kasargod",2022-23,3,384008.0,498.0,384506.0,False,False,False,False,0,0,1
+23,Thrissur,"Bekal Fort, Pallikkare Distt. Kasargod",2023-24,4,366905.0,534.0,367439.0,False,False,False,False,0,0,1
+23,Thrissur,"Bekal Fort, Pallikkare Distt. Kasargod",2024-25,5,374766.0,516.0,375282.0,False,False,False,False,0,0,1
+59,Hampi,Bellary Fort,2019-20,0,28723.0,56.0,28779.0,False,False,False,False,0,0,0
+59,Hampi,Bellary Fort,2020-21,1,11069.0,9.0,11078.0,False,False,False,False,1,0,0
+59,Hampi,Bellary Fort,2021-22,2,17263.0,15.0,17278.0,False,False,False,False,0,1,0
+59,Hampi,Bellary Fort,2022-23,3,14402.0,13.0,14415.0,False,False,False,False,0,0,1
+59,Hampi,Bellary Fort,2023-24,4,38270.0,40.0,38310.0,False,False,False,False,0,0,1
+59,Hampi,Bellary Fort,2024-25,5,37401.0,53.0,37454.0,False,False,False,False,0,0,1
+48,Bhopal,Bir Singh Palace Datia,2019-20,0,23382.0,736.0,24118.0,False,False,False,False,0,0,0
+48,Bhopal,Bir Singh Palace Datia,2020-21,1,14045.0,12.0,14057.0,False,False,False,False,1,0,0
+48,Bhopal,Bir Singh Palace Datia,2021-22,2,26306.0,29.0,26335.0,False,False,False,False,0,1,0
+48,Bhopal,Bir Singh Palace Datia,2022-23,3,42455.0,433.0,42888.0,False,False,False,False,0,0,1
+48,Bhopal,Bir Singh Palace Datia,2023-24,4,43841.0,763.0,44604.0,False,False,False,False,0,0,1
+48,Bhopal,Bir Singh Palace Datia,2024-25,5,42443.0,943.0,43386.0,False,False,False,False,0,0,1
+117,Guwahati,Bishnudol Temple,2019-20,0,21062.0,118.0,21180.0,False,False,False,False,0,0,0
+117,Guwahati,Bishnudol Temple,2020-21,1,2921.0,0.0,2921.0,False,False,False,False,1,0,0
+117,Guwahati,Bishnudol Temple,2021-22,2,2606.0,2.0,2608.0,False,False,False,False,0,1,0
+117,Guwahati,Bishnudol Temple,2022-23,3,7453.0,32.0,7485.0,False,False,False,False,0,0,1
+117,Guwahati,Bishnudol Temple,2023-24,4,6539.0,10.0,6549.0,False,False,False,False,0,0,1
+117,Guwahati,Bishnudol Temple,2024-25,5,5777.0,24.0,5801.0,False,False,False,False,0,0,1
+66,Kolkata,Bishnupur Temples,2019-20,0,154986.0,505.0,155491.0,False,False,False,False,0,0,0
+66,Kolkata,Bishnupur Temples,2020-21,1,117107.0,237.0,117344.0,False,False,False,False,1,0,0
+66,Kolkata,Bishnupur Temples,2021-22,2,111814.0,222.0,112036.0,False,False,False,False,0,1,0
+66,Kolkata,Bishnupur Temples,2022-23,3,185784.0,321.0,186105.0,False,False,False,False,0,0,1
+66,Kolkata,Bishnupur Temples,2023-24,4,196991.0,464.0,197455.0,False,False,False,False,0,0,1
+66,Kolkata,Bishnupur Temples,2024-25,5,183156.0,507.0,183663.0,False,False,False,False,0,0,1
+69,Rajkot,"Buddhisht Caves, Junagadh",2019-20,0,18755.0,796.0,19551.0,False,False,False,False,0,0,0
+69,Rajkot,"Buddhisht Caves, Junagadh",2020-21,1,58.0,0.0,58.0,False,False,False,False,1,0,0
+69,Rajkot,"Buddhisht Caves, Junagadh",2021-22,2,0.0,0.0,0.0,False,False,False,False,0,1,0
+69,Rajkot,"Buddhisht Caves, Junagadh",2022-23,3,0.0,0.0,0.0,False,False,False,False,0,0,1
+69,Rajkot,"Buddhisht Caves, Junagadh",2023-24,4,18341.0,165.0,18506.0,False,False,False,False,0,0,1
+69,Rajkot,"Buddhisht Caves, Junagadh",2024-25,5,42610.0,242.0,42852.0,False,False,False,False,0,0,1
+45,Bhopal,"Buddhist Cave No.01 to 51, Dhamnar, Tehsil Garoth",2019-20,0,32578.0,4.0,32582.0,False,False,False,False,0,0,0
+45,Bhopal,"Buddhist Cave No.01 to 51, Dhamnar, Tehsil Garoth",2020-21,1,12303.0,13.0,12316.0,False,False,False,False,1,0,0
+45,Bhopal,"Buddhist Cave No.01 to 51, Dhamnar, Tehsil Garoth",2021-22,2,24083.0,65.0,24148.0,False,False,False,False,0,1,0
+45,Bhopal,"Buddhist Cave No.01 to 51, Dhamnar, Tehsil Garoth",2022-23,3,31137.0,65.0,31202.0,False,False,False,False,0,0,1
+45,Bhopal,"Buddhist Cave No.01 to 51, Dhamnar, Tehsil Garoth",2023-24,4,33069.0,72.0,33141.0,False,False,False,False,0,0,1
+45,Bhopal,"Buddhist Cave No.01 to 51, Dhamnar, Tehsil Garoth",2024-25,5,34804.0,134.0,34938.0,False,False,False,False,0,0,1
+38,Bhopal,"Buddhist Caves Bagh, Mandu",2019-20,0,19920.0,42.0,19962.0,False,False,False,False,0,0,0
+38,Bhopal,"Buddhist Caves Bagh, Mandu",2020-21,1,23692.0,0.0,23692.0,False,False,False,False,1,0,0
+38,Bhopal,"Buddhist Caves Bagh, Mandu",2021-22,2,27260.0,1.0,27261.0,False,False,False,False,0,1,0
+38,Bhopal,"Buddhist Caves Bagh, Mandu",2022-23,3,29056.0,6.0,29062.0,False,False,False,False,0,0,1
+38,Bhopal,"Buddhist Caves Bagh, Mandu",2023-24,4,25369.0,26.0,25395.0,False,False,False,False,0,0,1
+38,Bhopal,"Buddhist Caves Bagh, Mandu",2024-25,5,25091.0,59.0,25150.0,False,False,False,False,0,0,1
+87,Mumbai,"Buddhist Caves, Kanheri",2019-20,0,401808.0,12106.0,413914.0,False,False,False,False,0,0,0
+87,Mumbai,"Buddhist Caves, Kanheri",2020-21,1,213.0,0.0,213.0,False,False,False,False,1,0,0
+87,Mumbai,"Buddhist Caves, Kanheri",2021-22,2,87182.0,576.0,87758.0,False,False,False,False,0,1,0
+87,Mumbai,"Buddhist Caves, Kanheri",2022-23,3,327250.0,6063.0,333313.0,False,False,False,False,0,0,1
+87,Mumbai,"Buddhist Caves, Kanheri",2023-24,4,380601.0,7571.0,388172.0,False,False,False,False,0,0,1
+87,Mumbai,"Buddhist Caves, Kanheri",2024-25,5,385776.0,7685.0,393461.0,False,False,False,False,0,0,1
+43,Bhopal,"Buddhist Monuments, Sanchi",2019-20,0,250706.0,3986.0,254692.0,False,False,False,False,0,0,0
+43,Bhopal,"Buddhist Monuments, Sanchi",2020-21,1,58979.0,41.0,59020.0,False,False,False,False,1,0,0
+43,Bhopal,"Buddhist Monuments, Sanchi",2021-22,2,118208.0,171.0,118379.0,False,False,False,False,0,1,0
+43,Bhopal,"Buddhist Monuments, Sanchi",2022-23,3,266528.0,3457.0,269985.0,False,False,False,False,0,0,1
+43,Bhopal,"Buddhist Monuments, Sanchi",2023-24,4,300068.0,11692.0,311760.0,False,False,False,False,0,0,1
+43,Bhopal,"Buddhist Monuments, Sanchi",2024-25,5,296042.0,19490.0,315532.0,False,False,False,False,0,0,1
+145,Amaravati,"Buddhist Remains, on hill top at Guntupalli W.G. District",2019-20,0,22353.0,85.0,22438.0,False,False,False,False,0,0,0
+145,Amaravati,"Buddhist Remains, on hill top at Guntupalli W.G. District",2020-21,1,10219.0,10.0,10229.0,False,False,False,False,1,0,0
+145,Amaravati,"Buddhist Remains, on hill top at Guntupalli W.G. District",2021-22,2,14134.0,22.0,14156.0,False,False,False,False,0,1,0
+145,Amaravati,"Buddhist Remains, on hill top at Guntupalli W.G. District",2022-23,3,21603.0,66.0,21669.0,False,False,False,False,0,0,1
+145,Amaravati,"Buddhist Remains, on hill top at Guntupalli W.G. District",2023-24,4,16626.0,35.0,16661.0,False,False,False,False,0,0,1
+145,Amaravati,"Buddhist Remains, on hill top at Guntupalli W.G. District",2024-25,5,13754.0,47.0,13801.0,False,False,False,False,0,0,1
+92,Mumbai,"Cave, Temple & Inscriptions, Bhaja",2019-20,0,80319.0,1872.0,82191.0,False,False,False,False,0,0,0
+92,Mumbai,"Cave, Temple & Inscriptions, Bhaja",2020-21,1,10976.0,24.0,11000.0,False,False,False,False,1,0,0
+92,Mumbai,"Cave, Temple & Inscriptions, Bhaja",2021-22,2,35790.0,81.0,35871.0,False,False,False,False,0,1,0
+92,Mumbai,"Cave, Temple & Inscriptions, Bhaja",2022-23,3,89302.0,517.0,89819.0,False,False,False,False,0,0,1
+92,Mumbai,"Cave, Temple & Inscriptions, Bhaja",2023-24,4,62666.0,413.0,63079.0,False,False,False,False,0,0,1
+92,Mumbai,"Cave, Temple & Inscriptions, Bhaja",2024-25,5,55693.0,144.0,55837.0,False,False,False,False,0,0,1
+90,Mumbai,"Cave, Temple and Inscriptions, Junnar",2019-20,0,354946.0,105.0,355051.0,False,False,False,False,0,0,0
+90,Mumbai,"Cave, Temple and Inscriptions, Junnar",2020-21,1,73899.0,6.0,73905.0,False,False,False,False,1,0,0
+90,Mumbai,"Cave, Temple and Inscriptions, Junnar",2021-22,2,173143.0,20.0,173163.0,False,False,False,False,0,1,0
+90,Mumbai,"Cave, Temple and Inscriptions, Junnar",2022-23,3,404079.0,391.0,404470.0,False,False,False,False,0,0,1
+90,Mumbai,"Cave, Temple and Inscriptions, Junnar",2023-24,4,479866.0,844.0,480710.0,False,False,False,False,0,0,1
+90,Mumbai,"Cave, Temple and Inscriptions, Junnar",2024-25,5,373182.0,401.0,373583.0,False,False,False,False,0,0,1
+47,Bhopal,Caves 1 to 20 Udaygiri Vidisha,2019-20,0,53546.0,741.0,54287.0,False,False,False,False,0,0,0
+47,Bhopal,Caves 1 to 20 Udaygiri Vidisha,2020-21,1,11601.0,10.0,11611.0,False,False,False,False,1,0,0
+47,Bhopal,Caves 1 to 20 Udaygiri Vidisha,2021-22,2,35530.0,42.0,35572.0,False,False,False,False,0,1,0
+47,Bhopal,Caves 1 to 20 Udaygiri Vidisha,2022-23,3,60441.0,539.0,60980.0,False,False,False,False,0,0,1
+47,Bhopal,Caves 1 to 20 Udaygiri Vidisha,2023-24,4,65392.0,726.0,66118.0,False,False,False,False,0,0,1
+47,Bhopal,Caves 1 to 20 Udaygiri Vidisha,2024-25,5,68753.0,878.0,69631.0,False,False,False,False,0,0,1
+91,Mumbai,"Caves, Temples and inscriptions, Karla",2019-20,0,219758.0,2068.0,221826.0,False,False,False,False,0,0,0
+91,Mumbai,"Caves, Temples and inscriptions, Karla",2020-21,1,51045.0,21.0,51066.0,False,False,False,False,1,0,0
+91,Mumbai,"Caves, Temples and inscriptions, Karla",2021-22,2,156834.0,150.0,156984.0,False,False,False,False,0,1,0
+91,Mumbai,"Caves, Temples and inscriptions, Karla",2022-23,3,301392.0,2170.0,303562.0,False,False,False,False,0,0,1
+91,Mumbai,"Caves, Temples and inscriptions, Karla",2023-24,4,250417.0,1860.0,252277.0,False,False,False,False,0,0,1
+91,Mumbai,"Caves, Temples and inscriptions, Karla",2024-25,5,187184.0,1817.0,189001.0,False,False,False,False,0,0,1
+71,Vadodara,Champaner Monuments Pavagadh,2019-20,0,59402.0,1948.0,61350.0,False,False,False,False,0,0,0
+71,Vadodara,Champaner Monuments Pavagadh,2020-21,1,39014.0,81.0,39095.0,False,False,False,False,1,0,0
+71,Vadodara,Champaner Monuments Pavagadh,2021-22,2,61303.0,43.0,61346.0,False,False,False,False,0,1,0
+71,Vadodara,Champaner Monuments Pavagadh,2022-23,3,65547.0,806.0,66353.0,False,False,False,False,0,0,1
+71,Vadodara,Champaner Monuments Pavagadh,2023-24,4,56675.0,1762.0,58437.0,False,False,False,False,0,0,1
+71,Vadodara,Champaner Monuments Pavagadh,2024-25,5,52017.0,1924.0,53941.0,False,False,False,False,0,0,1
+144,Amaravati,Chandragiri Monuments,2019-20,0,103489.0,109.0,103598.0,False,False,False,False,0,0,0
+144,Amaravati,Chandragiri Monuments,2020-21,1,51113.0,38.0,51151.0,False,False,False,False,1,0,0
+144,Amaravati,Chandragiri Monuments,2021-22,2,80189.0,33.0,80222.0,False,False,False,False,0,1,0
+144,Amaravati,Chandragiri Monuments,2022-23,3,115676.0,80.0,115756.0,False,False,False,False,0,0,1
+144,Amaravati,Chandragiri Monuments,2023-24,4,123200.0,97.0,123297.0,False,False,False,False,0,0,1
+144,Amaravati,Chandragiri Monuments,2024-25,5,112435.0,96.0,112531.0,False,False,False,False,0,0,1
+120,Hyderabad,Charminar,2019-20,0,1151933.0,7803.0,1159736.0,False,False,False,False,0,0,0
+120,Hyderabad,Charminar,2020-21,1,297548.0,182.0,297730.0,False,False,False,False,1,0,0
+120,Hyderabad,Charminar,2021-22,2,440549.0,648.0,441197.0,False,False,False,False,0,1,0
+120,Hyderabad,Charminar,2022-23,3,928808.0,5986.0,934794.0,False,False,False,False,0,0,1
+120,Hyderabad,Charminar,2023-24,4,1290074.0,8040.0,1298114.0,False,False,False,False,0,0,1
+120,Hyderabad,Charminar,2024-25,5,1343503.0,9562.0,1353065.0,False,False,False,False,0,0,1
+126,Jodhpur,Chittaurgarh Fort,2019-20,0,565133.0,15188.0,580321.0,False,False,False,False,0,0,0
+126,Jodhpur,Chittaurgarh Fort,2020-21,1,223328.0,206.0,223534.0,False,False,False,False,1,0,0
+126,Jodhpur,Chittaurgarh Fort,2021-22,2,590389.0,288.0,590677.0,False,False,False,False,0,1,0
+126,Jodhpur,Chittaurgarh Fort,2022-23,3,802807.0,7155.0,809962.0,False,False,False,False,0,0,1
+126,Jodhpur,Chittaurgarh Fort,2023-24,4,887218.0,13118.0,900336.0,False,False,False,False,0,0,1
+126,Jodhpur,Chittaurgarh Fort,2024-25,5,1057243.0,12930.0,1070173.0,False,False,False,False,0,0,1
+64,Raiganj,Cooch Bihar Palace,2019-20,0,465553.0,52.0,465605.0,False,False,False,False,0,0,0
+64,Raiganj,Cooch Bihar Palace,2020-21,1,126135.0,161.0,126296.0,False,False,False,False,1,0,0
+64,Raiganj,Cooch Bihar Palace,2021-22,2,2287176.0,162.0,2287338.0,True,False,False,True,0,1,0
+64,Raiganj,Cooch Bihar Palace,2022-23,3,608776.0,98.0,608874.0,False,False,False,False,0,0,1
+64,Raiganj,Cooch Bihar Palace,2023-24,4,685216.0,150.0,685366.0,False,False,False,False,0,0,1
+64,Raiganj,Cooch Bihar Palace,2024-25,5,682443.0,261.0,682704.0,False,False,False,False,0,0,1
+60,Bangalore,Daryia Daulat Baghtna,2019-20,0,646560.0,14016.0,660576.0,False,False,False,False,0,0,0
+60,Bangalore,Daryia Daulat Baghtna,2020-21,1,89006.0,306.0,89312.0,False,False,False,False,1,0,0
+60,Bangalore,Daryia Daulat Baghtna,2021-22,2,142935.0,891.0,143826.0,False,False,False,False,0,1,0
+60,Bangalore,Daryia Daulat Baghtna,2022-23,3,436759.0,8614.0,445373.0,False,False,False,False,0,0,1
+60,Bangalore,Daryia Daulat Baghtna,2023-24,4,547480.0,12621.0,560101.0,False,False,False,False,0,0,1
+60,Bangalore,Daryia Daulat Baghtna,2024-25,5,500077.0,15159.0,515236.0,False,False,False,False,0,0,1
+83,Aurangabad,Daulatabad Fort,2019-20,0,515935.0,5729.0,521664.0,False,False,False,False,0,0,0
+83,Aurangabad,Daulatabad Fort,2020-21,1,105434.0,49.0,105483.0,False,False,False,False,1,0,0
+83,Aurangabad,Daulatabad Fort,2021-22,2,204834.0,264.0,205098.0,False,False,False,False,0,1,0
+83,Aurangabad,Daulatabad Fort,2022-23,3,516144.0,2565.0,518709.0,False,False,False,False,0,0,1
+83,Aurangabad,Daulatabad Fort,2023-24,4,547569.0,3809.0,551378.0,False,False,False,False,0,0,1
+83,Aurangabad,Daulatabad Fort,2024-25,5,545635.0,4032.0,549667.0,False,False,False,False,0,0,1
+125,Jaipur,Deeg Bhawan,2019-20,0,28510.0,1067.0,29577.0,False,False,False,False,0,0,0
+125,Jaipur,Deeg Bhawan,2020-21,1,12772.0,30.0,12802.0,False,False,False,False,1,0,0
+125,Jaipur,Deeg Bhawan,2021-22,2,33004.0,27.0,33031.0,False,False,False,False,0,1,0
+125,Jaipur,Deeg Bhawan,2022-23,3,32624.0,383.0,33007.0,False,False,False,False,0,0,1
+125,Jaipur,Deeg Bhawan,2023-24,4,39755.0,245.0,40000.0,False,False,False,False,0,0,1
+125,Jaipur,Deeg Bhawan,2024-25,5,37987.0,366.0,38353.0,False,False,False,False,0,0,1
+52,Dharwad,"Durga Temple, Aihole",2019-20,0,186767.0,3849.0,190616.0,False,False,False,False,0,0,0
+52,Dharwad,"Durga Temple, Aihole",2020-21,1,75089.0,99.0,75188.0,False,False,False,False,1,0,0
+52,Dharwad,"Durga Temple, Aihole",2021-22,2,98363.0,69.0,98432.0,False,False,False,False,0,1,0
+52,Dharwad,"Durga Temple, Aihole",2022-23,3,195325.0,2072.0,197397.0,False,False,False,False,0,0,1
+52,Dharwad,"Durga Temple, Aihole",2023-24,4,217316.0,3245.0,220561.0,False,False,False,False,0,0,1
+52,Dharwad,"Durga Temple, Aihole",2024-25,5,210076.0,3825.0,213901.0,False,False,False,False,0,0,1
+86,Mumbai,Elephanta Caves,2019-20,0,686862.0,37891.0,724753.0,False,False,False,False,0,0,0
+86,Mumbai,Elephanta Caves,2020-21,1,82136.0,281.0,82417.0,False,False,False,False,1,0,0
+86,Mumbai,Elephanta Caves,2021-22,2,219837.0,1321.0,221158.0,False,False,False,False,0,1,0
+86,Mumbai,Elephanta Caves,2022-23,3,464428.0,13368.0,477796.0,False,False,False,False,0,0,1
+86,Mumbai,Elephanta Caves,2023-24,4,476532.0,21584.0,498116.0,False,False,False,False,0,0,1
+86,Mumbai,Elephanta Caves,2024-25,5,476385.0,26119.0,502504.0,False,False,False,False,0,0,1
+81,Aurangabad,Ellora Caves,2019-20,0,1259261.0,21426.0,1280687.0,False,False,False,False,0,0,0
+81,Aurangabad,Ellora Caves,2020-21,1,163313.0,159.0,163472.0,False,False,False,False,1,0,0
+81,Aurangabad,Ellora Caves,2021-22,2,411915.0,911.0,412826.0,False,False,False,False,0,1,0
+81,Aurangabad,Ellora Caves,2022-23,3,1437560.0,12464.0,1450024.0,False,False,False,False,0,0,1
+81,Aurangabad,Ellora Caves,2023-24,4,1740513.0,19643.0,1760156.0,False,False,False,False,0,0,1
+81,Aurangabad,Ellora Caves,2024-25,5,1739873.0,20710.0,1760583.0,False,False,False,False,0,0,1
+20,Sarnath,Excavated Remains at Sarnath,2019-20,0,485309.0,100590.0,585899.0,False,False,False,False,0,0,0
+20,Sarnath,Excavated Remains at Sarnath,2020-21,1,170590.0,384.0,170974.0,False,False,False,False,1,0,0
+20,Sarnath,Excavated Remains at Sarnath,2021-22,2,328684.0,1617.0,330301.0,False,False,False,False,0,1,0
+20,Sarnath,Excavated Remains at Sarnath,2022-23,3,755062.0,54743.0,809805.0,False,False,False,False,0,0,1
+20,Sarnath,Excavated Remains at Sarnath,2023-24,4,776827.0,76785.0,853612.0,False,False,False,False,0,0,1
+20,Sarnath,Excavated Remains at Sarnath,2024-25,5,744213.0,59086.0,803299.0,False,False,False,False,0,0,1
+132,Patna,"Excavated Site, Nalanda",2019-20,0,437506.0,26903.0,464409.0,False,False,False,False,0,0,0
+132,Patna,"Excavated Site, Nalanda",2020-21,1,105748.0,,105748.0,False,True,False,True,1,0,0
+132,Patna,"Excavated Site, Nalanda",2021-22,2,179597.0,281.0,179878.0,False,False,False,False,0,1,0
+132,Patna,"Excavated Site, Nalanda",2022-23,3,390047.0,37456.0,427503.0,False,False,False,False,0,0,1
+132,Patna,"Excavated Site, Nalanda",2023-24,4,492386.0,65506.0,557892.0,False,False,False,False,0,0,1
+132,Patna,"Excavated Site, Nalanda",2024-25,5,501000.0,88151.0,589151.0,False,False,False,False,0,0,1
+3,Agra,Fatehpur Sikri,2019-20,0,454376.0,184751.0,639127.0,False,False,False,False,0,0,0
+3,Agra,Fatehpur Sikri,2020-21,1,107835.0,574.0,108409.0,False,False,False,False,1,0,0
+3,Agra,Fatehpur Sikri,2021-22,2,157253.0,2122.0,159375.0,False,False,False,False,0,1,0
+3,Agra,Fatehpur Sikri,2022-23,3,443689.0,62238.0,505927.0,False,False,False,False,0,0,1
+3,Agra,Fatehpur Sikri,2023-24,4,315212.0,93963.0,409175.0,False,False,False,False,0,0,1
+3,Agra,Fatehpur Sikri,2024-25,5,443158.0,97441.0,540599.0,False,False,False,False,0,0,1
+36,Thiruchirapalli,Fort Museum Tirumayam,2019-20,0,294829.0,5259.0,300088.0,False,False,False,False,0,0,0
+36,Thiruchirapalli,Fort Museum Tirumayam,2020-21,1,41487.0,1555.0,43042.0,False,False,False,False,1,0,0
+36,Thiruchirapalli,Fort Museum Tirumayam,2021-22,2,62622.0,27.0,62649.0,False,False,False,False,0,1,0
+36,Thiruchirapalli,Fort Museum Tirumayam,2022-23,3,93833.0,713.0,94546.0,False,False,False,False,0,0,1
+36,Thiruchirapalli,Fort Museum Tirumayam,2023-24,4,93109.0,694.0,93803.0,False,False,False,False,0,0,1
+36,Thiruchirapalli,Fort Museum Tirumayam,2024-25,5,90100.0,990.0,91090.0,False,False,False,False,0,0,1
+25,Thrissur,Fort Palakkad,2019-20,0,174589.0,241.0,174830.0,False,False,False,False,0,0,0
+25,Thrissur,Fort Palakkad,2020-21,1,43927.0,26.0,43953.0,False,False,False,False,1,0,0
+25,Thrissur,Fort Palakkad,2021-22,2,96142.0,10.0,96152.0,False,False,False,False,0,1,0
+25,Thrissur,Fort Palakkad,2022-23,3,258812.0,252.0,259064.0,False,False,False,False,0,0,1
+25,Thrissur,Fort Palakkad,2023-24,4,295091.0,410.0,295501.0,False,False,False,False,0,0,1
+25,Thrissur,Fort Palakkad,2024-25,5,265090.0,434.0,265524.0,False,False,False,False,0,0,1
+26,Thrissur,"Fort St. Angelo, Kannur",2019-20,0,234518.0,3305.0,237823.0,False,False,False,False,0,0,0
+26,Thrissur,"Fort St. Angelo, Kannur",2020-21,1,65683.0,115.0,65798.0,False,False,False,False,1,0,0
+26,Thrissur,"Fort St. Angelo, Kannur",2021-22,2,152543.0,59.0,152602.0,False,False,False,False,0,1,0
+26,Thrissur,"Fort St. Angelo, Kannur",2022-23,3,270433.0,4572.0,275005.0,False,False,False,False,0,0,1
+26,Thrissur,"Fort St. Angelo, Kannur",2023-24,4,240382.0,818.0,241200.0,False,False,False,False,0,0,1
+26,Thrissur,"Fort St. Angelo, Kannur",2024-25,5,242895.0,1074.0,243969.0,False,False,False,False,0,0,1
+37,Thiruchirapalli,Fort Vattakottai,2019-20,0,159492.0,340.0,159832.0,False,False,False,False,0,0,0
+37,Thiruchirapalli,Fort Vattakottai,2020-21,1,5058.0,36.0,5094.0,False,False,False,False,1,0,0
+37,Thiruchirapalli,Fort Vattakottai,2021-22,2,53200.0,0.0,53200.0,False,False,False,False,0,1,0
+37,Thiruchirapalli,Fort Vattakottai,2022-23,3,106838.0,158.0,106996.0,False,False,False,False,0,0,1
+37,Thiruchirapalli,Fort Vattakottai,2023-24,4,114090.0,242.0,114332.0,False,False,False,False,0,0,1
+37,Thiruchirapalli,Fort Vattakottai,2024-25,5,99669.0,366.0,100035.0,False,False,False,False,0,0,1
+31,Thiruchirapalli,"Fort on Rock, Dindigul",2019-20,0,24657.0,94.0,24751.0,False,False,False,False,0,0,0
+31,Thiruchirapalli,"Fort on Rock, Dindigul",2020-21,1,25603.0,99.0,25702.0,False,False,False,False,1,0,0
+31,Thiruchirapalli,"Fort on Rock, Dindigul",2021-22,2,27368.0,4.0,27372.0,False,False,False,False,0,1,0
+31,Thiruchirapalli,"Fort on Rock, Dindigul",2022-23,3,36071.0,57.0,36128.0,False,False,False,False,0,0,1
+31,Thiruchirapalli,"Fort on Rock, Dindigul",2023-24,4,31763.0,77.0,31840.0,False,False,False,False,0,0,1
+31,Thiruchirapalli,"Fort on Rock, Dindigul",2024-25,5,36711.0,241.0,36952.0,False,False,False,False,0,0,1
+30,Chennai,"Fort, St. George",2019-20,0,,,,False,False,False,True,0,0,0
+30,Chennai,"Fort, St. George",2020-21,1,,,,False,False,False,True,1,0,0
+30,Chennai,"Fort, St. George",2021-22,2,,,,False,False,False,True,0,1,0
+30,Chennai,"Fort, St. George",2022-23,3,,,,False,False,False,True,0,0,1
+30,Chennai,"Fort, St. George",2023-24,4,24254.0,5474.0,29728.0,False,False,False,False,0,0,1
+30,Chennai,"Fort, St. George",2024-25,5,24664.0,7313.0,31977.0,False,False,False,False,0,0,1
+63,Bangalore,Fortress and Temple Chitradurga Fort,2019-20,0,338340.0,1095.0,339435.0,False,False,False,False,0,0,0
+63,Bangalore,Fortress and Temple Chitradurga Fort,2020-21,1,144862.0,297.0,145159.0,False,False,False,False,1,0,0
+63,Bangalore,Fortress and Temple Chitradurga Fort,2021-22,2,210483.0,819.0,211302.0,False,False,False,False,0,1,0
+63,Bangalore,Fortress and Temple Chitradurga Fort,2022-23,3,407714.0,1809.0,409523.0,False,False,False,False,0,0,1
+63,Bangalore,Fortress and Temple Chitradurga Fort,2023-24,4,446569.0,2568.0,449137.0,False,False,False,False,0,0,1
+63,Bangalore,Fortress and Temple Chitradurga Fort,2024-25,5,381095.0,3078.0,384173.0,False,False,False,False,0,0,1
+99,Nagpur,Gawilgarh Fort,2019-20,0,43795.0,11.0,43806.0,False,False,False,False,0,0,0
+99,Nagpur,Gawilgarh Fort,2020-21,1,5.0,0.0,5.0,False,False,False,False,1,0,0
+99,Nagpur,Gawilgarh Fort,2021-22,2,9219.0,5.0,9224.0,False,False,False,False,0,1,0
+99,Nagpur,Gawilgarh Fort,2022-23,3,22777.0,16.0,22793.0,False,False,False,False,0,0,1
+99,Nagpur,Gawilgarh Fort,2023-24,4,29842.0,27.0,29869.0,False,False,False,False,0,0,1
+99,Nagpur,Gawilgarh Fort,2024-25,5,21609.0,6.0,21615.0,False,False,False,False,0,0,1
+28,Chennai,Gingee Fort,2019-20,0,107073.0,1736.0,108809.0,False,False,False,False,0,0,0
+28,Chennai,Gingee Fort,2020-21,1,125109.0,2272.0,127381.0,False,False,False,False,1,0,0
+28,Chennai,Gingee Fort,2021-22,2,188496.0,555.0,189051.0,False,False,False,False,0,1,0
+28,Chennai,Gingee Fort,2022-23,3,179289.0,1896.0,181185.0,False,False,False,False,0,0,1
+28,Chennai,Gingee Fort,2023-24,4,169718.0,1745.0,171463.0,False,False,False,False,0,0,1
+28,Chennai,Gingee Fort,2024-25,5,149329.0,1411.0,150740.0,False,False,False,False,0,0,1
+55,Dharwad,"Gol-Gumbaz, Vijayapura",2019-20,0,813943.0,1683.0,815626.0,False,False,False,False,0,0,0
+55,Dharwad,"Gol-Gumbaz, Vijayapura",2020-21,1,283256.0,75.0,283331.0,False,False,False,False,1,0,0
+55,Dharwad,"Gol-Gumbaz, Vijayapura",2021-22,2,447627.0,263.0,447890.0,False,False,False,False,0,1,0
+55,Dharwad,"Gol-Gumbaz, Vijayapura",2022-23,3,831109.0,755.0,831864.0,False,False,False,False,0,0,1
+55,Dharwad,"Gol-Gumbaz, Vijayapura",2023-24,4,1005925.0,1368.0,1007293.0,False,False,False,False,0,0,1
+55,Dharwad,"Gol-Gumbaz, Vijayapura",2024-25,5,857297.0,1362.0,858659.0,False,False,False,False,0,0,1
+121,Hyderabad,Golkonda Fort,2019-20,0,1630419.0,20572.0,1650991.0,False,False,False,False,0,0,0
+121,Hyderabad,Golkonda Fort,2020-21,1,527096.0,912.0,528008.0,False,False,False,False,1,0,0
+121,Hyderabad,Golkonda Fort,2021-22,2,946972.0,1511.0,948483.0,False,False,False,False,0,1,0
+121,Hyderabad,Golkonda Fort,2022-23,3,1526718.0,11509.0,1538227.0,False,False,False,False,0,0,1
+121,Hyderabad,Golkonda Fort,2023-24,4,1608085.0,15839.0,1623924.0,False,False,False,False,0,0,1
+121,Hyderabad,Golkonda Fort,2024-25,5,1563524.0,15958.0,1579482.0,False,False,False,False,0,0,1
+118,Guwahati,"Group of Four Maidams Charaideo, Sibsagar",2019-20,0,23111.0,141.0,23252.0,False,False,False,False,0,0,0
+118,Guwahati,"Group of Four Maidams Charaideo, Sibsagar",2020-21,1,19866.0,72.0,19938.0,False,False,False,False,1,0,0
+118,Guwahati,"Group of Four Maidams Charaideo, Sibsagar",2021-22,2,34809.0,52.0,34861.0,False,False,False,False,0,1,0
+118,Guwahati,"Group of Four Maidams Charaideo, Sibsagar",2022-23,3,93788.0,26.0,93814.0,False,False,False,False,0,0,1
+118,Guwahati,"Group of Four Maidams Charaideo, Sibsagar",2023-24,4,47987.0,86.0,48073.0,False,False,False,False,0,0,1
+118,Guwahati,"Group of Four Maidams Charaideo, Sibsagar",2024-25,5,76896.0,102.0,76998.0,False,False,False,False,0,0,1
+54,Dharwad,"Group of Monuments (WH), Pattadakal",2019-20,0,262144.0,4310.0,266454.0,False,False,False,False,0,0,0
+54,Dharwad,"Group of Monuments (WH), Pattadakal",2020-21,1,123110.0,61.0,123171.0,False,False,False,False,1,0,0
+54,Dharwad,"Group of Monuments (WH), Pattadakal",2021-22,2,157634.0,79.0,157713.0,False,False,False,False,0,1,0
+54,Dharwad,"Group of Monuments (WH), Pattadakal",2022-23,3,306808.0,2359.0,309167.0,False,False,False,False,0,0,1
+54,Dharwad,"Group of Monuments (WH), Pattadakal",2023-24,4,343720.0,3662.0,347382.0,False,False,False,False,0,0,1
+54,Dharwad,"Group of Monuments (WH), Pattadakal",2024-25,5,320326.0,4289.0,324615.0,False,False,False,False,0,0,1
+58,Hampi,"Group of Monuments, Hampi",2019-20,0,587238.0,27006.0,614244.0,False,False,False,False,0,0,0
+58,Hampi,"Group of Monuments, Hampi",2020-21,1,273456.0,627.0,274083.0,False,False,False,False,1,0,0
+58,Hampi,"Group of Monuments, Hampi",2021-22,2,425950.0,1244.0,427194.0,False,False,False,False,0,1,0
+58,Hampi,"Group of Monuments, Hampi",2022-23,3,809741.0,15890.0,825631.0,False,False,False,False,0,0,1
+58,Hampi,"Group of Monuments, Hampi",2023-24,4,990195.0,21935.0,1012130.0,False,False,False,False,0,0,1
+58,Hampi,"Group of Monuments, Hampi",2024-25,5,986249.0,22472.0,1008721.0,False,False,False,False,0,0,1
+27,Chennai,"Group of Monuments, Mamallapuram",2019-20,0,1260358.0,53422.0,1313780.0,False,False,False,False,0,0,0
+27,Chennai,"Group of Monuments, Mamallapuram",2020-21,1,808145.0,29145.0,837290.0,False,False,False,False,1,0,0
+27,Chennai,"Group of Monuments, Mamallapuram",2021-22,2,1142150.0,7532.0,1149682.0,False,False,False,False,0,1,0
+27,Chennai,"Group of Monuments, Mamallapuram",2022-23,3,1507208.0,28033.0,1535241.0,False,False,False,False,0,0,1
+27,Chennai,"Group of Monuments, Mamallapuram",2023-24,4,1212022.0,44943.0,1256965.0,False,False,False,False,0,0,1
+27,Chennai,"Group of Monuments, Mamallapuram",2024-25,5,967048.0,41416.0,1008464.0,False,False,False,False,0,0,1
+41,Bhopal,"Group of Monuments, Royal Palace Mandu",2019-20,0,408302.0,2427.0,410729.0,False,False,False,False,0,0,0
+41,Bhopal,"Group of Monuments, Royal Palace Mandu",2020-21,1,181868.0,128.0,181996.0,False,False,False,False,1,0,0
+41,Bhopal,"Group of Monuments, Royal Palace Mandu",2021-22,2,344821.0,92.0,344913.0,False,False,False,False,0,1,0
+41,Bhopal,"Group of Monuments, Royal Palace Mandu",2022-23,3,319046.0,1027.0,320073.0,False,False,False,False,0,0,1
+41,Bhopal,"Group of Monuments, Royal Palace Mandu",2023-24,4,390713.0,1609.0,392322.0,False,False,False,False,0,0,1
+41,Bhopal,"Group of Monuments, Royal Palace Mandu",2024-25,5,372116.0,1740.0,373856.0,False,False,False,False,0,0,1
+51,Bhopal,"Group of Temple, Paramesh var Shiv and Karan Temple, Amarkantak",2019-20,0,57408.0,42.0,57450.0,False,False,False,False,0,0,0
+51,Bhopal,"Group of Temple, Paramesh var Shiv and Karan Temple, Amarkantak",2020-21,1,23598.0,13.0,23611.0,False,False,False,False,1,0,0
+51,Bhopal,"Group of Temple, Paramesh var Shiv and Karan Temple, Amarkantak",2021-22,2,30981.0,133.0,31114.0,False,False,False,False,0,1,0
+51,Bhopal,"Group of Temple, Paramesh var Shiv and Karan Temple, Amarkantak",2022-23,3,44125.0,94.0,44219.0,False,False,False,False,0,0,1
+51,Bhopal,"Group of Temple, Paramesh var Shiv and Karan Temple, Amarkantak",2023-24,4,50251.0,145.0,50396.0,False,False,False,False,0,0,1
+51,Bhopal,"Group of Temple, Paramesh var Shiv and Karan Temple, Amarkantak",2024-25,5,49323.0,152.0,49475.0,False,False,False,False,0,0,1
+140,Srinagar,"Group of Temples, Kiramchi, District Udhampur",2019-20,0,5731.0,4.0,5735.0,False,False,False,False,0,0,0
+140,Srinagar,"Group of Temples, Kiramchi, District Udhampur",2020-21,1,5816.0,0.0,5816.0,False,False,False,False,1,0,0
+140,Srinagar,"Group of Temples, Kiramchi, District Udhampur",2021-22,2,7383.0,8.0,7391.0,False,False,False,False,0,1,0
+140,Srinagar,"Group of Temples, Kiramchi, District Udhampur",2022-23,3,8225.0,9.0,8234.0,False,False,False,False,0,0,1
+140,Srinagar,"Group of Temples, Kiramchi, District Udhampur",2023-24,4,16807.0,12.0,16819.0,False,False,False,False,0,0,1
+140,Srinagar,"Group of Temples, Kiramchi, District Udhampur",2024-25,5,13842.0,15.0,13857.0,False,False,False,False,0,0,1
+13,Jhansi,"Gupta & Varah Temple, Deogarh",2019-20,0,1348.0,32.0,1380.0,False,False,False,False,0,0,0
+13,Jhansi,"Gupta & Varah Temple, Deogarh",2020-21,1,931.0,0.0,931.0,False,False,False,False,1,0,0
+13,Jhansi,"Gupta & Varah Temple, Deogarh",2021-22,2,1636.0,0.0,1636.0,False,False,False,False,0,1,0
+13,Jhansi,"Gupta & Varah Temple, Deogarh",2022-23,3,934.0,13.0,947.0,False,False,False,False,0,0,1
+13,Jhansi,"Gupta & Varah Temple, Deogarh",2023-24,4,1844.0,18.0,1862.0,False,False,False,False,0,0,1
+13,Jhansi,"Gupta & Varah Temple, Deogarh",2024-25,5,2238.0,20.0,2258.0,False,False,False,False,0,0,1
+44,Bhopal,Gwalior Fort,2019-20,0,255734.0,7744.0,263478.0,False,False,False,False,0,0,0
+44,Bhopal,Gwalior Fort,2020-21,1,101464.0,130.0,101594.0,False,False,False,False,1,0,0
+44,Bhopal,Gwalior Fort,2021-22,2,203163.0,209.0,203372.0,False,False,False,False,0,1,0
+44,Bhopal,Gwalior Fort,2022-23,3,274674.0,3973.0,278647.0,False,False,False,False,0,0,1
+44,Bhopal,Gwalior Fort,2023-24,4,310867.0,7933.0,318800.0,False,False,False,False,0,0,1
+44,Bhopal,Gwalior Fort,2024-25,5,318649.0,9660.0,328309.0,False,False,False,False,0,0,1
+109,Delhi,Hauzkhas,2019-20,0,145544.0,2625.0,148169.0,False,False,False,False,0,0,0
+109,Delhi,Hauzkhas,2020-21,1,39837.0,148.0,39985.0,False,False,False,False,1,0,0
+109,Delhi,Hauzkhas,2021-22,2,45503.0,152.0,45655.0,False,False,False,False,0,1,0
+109,Delhi,Hauzkhas,2022-23,3,62959.0,1027.0,63986.0,False,False,False,False,0,0,1
+109,Delhi,Hauzkhas,2023-24,4,83857.0,1305.0,85162.0,False,False,False,False,0,0,1
+109,Delhi,Hauzkhas,2024-25,5,110405.0,1663.0,112068.0,False,False,False,False,0,0,1
+65,Raiganj,Hazarduari Palace,2019-20,0,674113.0,1723.0,675836.0,False,False,False,False,0,0,0
+65,Raiganj,Hazarduari Palace,2020-21,1,361546.0,649.0,362195.0,False,False,False,False,1,0,0
+65,Raiganj,Hazarduari Palace,2021-22,2,357127.0,167.0,357294.0,False,False,False,False,0,1,0
+65,Raiganj,Hazarduari Palace,2022-23,3,910336.0,1148.0,911484.0,False,False,False,False,0,0,1
+65,Raiganj,Hazarduari Palace,2023-24,4,983025.0,1454.0,984479.0,False,False,False,False,0,0,1
+65,Raiganj,Hazarduari Palace,2024-25,5,906992.0,1907.0,908899.0,False,False,False,False,0,0,1
+40,Bhopal,"Hoshang Shah’s Tomb,",2019-20,0,130094.0,2017.0,132111.0,False,False,False,False,0,0,0
+40,Bhopal,"Hoshang Shah’s Tomb,",2020-21,1,57769.0,39.0,57808.0,False,False,False,False,1,0,0
+40,Bhopal,"Hoshang Shah’s Tomb,",2021-22,2,113132.0,107.0,113239.0,False,False,False,False,0,1,0
+40,Bhopal,"Hoshang Shah’s Tomb,",2022-23,3,93038.0,705.0,93743.0,False,False,False,False,0,0,1
+40,Bhopal,"Hoshang Shah’s Tomb,",2023-24,4,96548.0,1176.0,97724.0,False,False,False,False,0,0,1
+40,Bhopal,"Hoshang Shah’s Tomb,",2024-25,5,80429.0,1274.0,81703.0,False,False,False,False,0,0,1
+107,Delhi,Humayuns Tomb,2019-20,0,658318.0,202288.0,860606.0,False,False,False,False,0,0,0
+107,Delhi,Humayuns Tomb,2020-21,1,243836.0,2381.0,246217.0,False,False,False,False,1,0,0
+107,Delhi,Humayuns Tomb,2021-22,2,392378.0,4892.0,397270.0,False,False,False,False,0,1,0
+107,Delhi,Humayuns Tomb,2022-23,3,1162360.0,100136.0,1262496.0,False,False,False,False,0,0,1
+107,Delhi,Humayuns Tomb,2023-24,4,886740.0,116904.0,1003644.0,False,False,False,False,0,0,1
+107,Delhi,Humayuns Tomb,2024-25,5,1005606.0,158043.0,1163649.0,False,False,False,False,0,0,1
+56,Dharwad,"Ibrahim Rauza, Vijayapura",2019-20,0,155565.0,1290.0,156855.0,False,False,False,False,0,0,0
+56,Dharwad,"Ibrahim Rauza, Vijayapura",2020-21,1,57759.0,12.0,57771.0,False,False,False,False,1,0,0
+56,Dharwad,"Ibrahim Rauza, Vijayapura",2021-22,2,102094.0,20.0,102114.0,False,False,False,False,0,1,0
+56,Dharwad,"Ibrahim Rauza, Vijayapura",2022-23,3,187111.0,644.0,187755.0,False,False,False,False,0,0,1
+56,Dharwad,"Ibrahim Rauza, Vijayapura",2023-24,4,217136.0,1095.0,218231.0,False,False,False,False,0,0,1
+56,Dharwad,"Ibrahim Rauza, Vijayapura",2024-25,5,188375.0,1081.0,189456.0,False,False,False,False,0,0,1
+6,Agra,Itimad-ud- Daulah Tomb,2019-20,0,132800.0,82692.0,215492.0,False,False,False,False,0,0,0
+6,Agra,Itimad-ud- Daulah Tomb,2020-21,1,41016.0,410.0,41426.0,False,False,False,False,1,0,0
+6,Agra,Itimad-ud- Daulah Tomb,2021-22,2,90711.0,1927.0,92638.0,False,False,False,False,0,1,0
+6,Agra,Itimad-ud- Daulah Tomb,2022-23,3,152495.0,44390.0,196885.0,False,False,False,False,0,0,1
+6,Agra,Itimad-ud- Daulah Tomb,2023-24,4,186037.0,84326.0,270363.0,False,False,False,False,0,0,1
+6,Agra,Itimad-ud- Daulah Tomb,2024-25,5,185282.0,90367.0,275649.0,False,False,False,False,0,0,1
+53,Dharwad,"Jaina & Vaishnava Cave, Badami",2019-20,0,372051.0,6758.0,378809.0,False,False,False,False,0,0,0
+53,Dharwad,"Jaina & Vaishnava Cave, Badami",2020-21,1,172259.0,167.0,172426.0,False,False,False,False,1,0,0
+53,Dharwad,"Jaina & Vaishnava Cave, Badami",2021-22,2,234156.0,199.0,234355.0,False,False,False,False,0,1,0
+53,Dharwad,"Jaina & Vaishnava Cave, Badami",2022-23,3,427138.0,3271.0,430409.0,False,False,False,False,0,0,1
+53,Dharwad,"Jaina & Vaishnava Cave, Badami",2023-24,4,476245.0,5083.0,481328.0,False,False,False,False,0,0,1
+53,Dharwad,"Jaina & Vaishnava Cave, Badami",2024-25,5,438834.0,5708.0,444542.0,False,False,False,False,0,0,1
+96,Mumbai,"Janjira Fort, Murd",2019-20,0,253315.0,151.0,253466.0,False,False,False,False,0,0,0
+96,Mumbai,"Janjira Fort, Murd",2020-21,1,149221.0,7.0,149228.0,False,False,False,False,1,0,0
+96,Mumbai,"Janjira Fort, Murd",2021-22,2,187947.0,68.0,188015.0,False,False,False,False,0,1,0
+96,Mumbai,"Janjira Fort, Murd",2022-23,3,276453.0,199.0,276652.0,False,False,False,False,0,0,1
+96,Mumbai,"Janjira Fort, Murd",2023-24,4,291382.0,207.0,291589.0,False,False,False,False,0,0,1
+96,Mumbai,"Janjira Fort, Murd",2024-25,5,246804.0,695.0,247499.0,False,False,False,False,0,0,1
+110,Delhi,Jantar Mantar,2019-20,0,203197.0,6516.0,209713.0,False,False,False,False,0,0,0
+110,Delhi,Jantar Mantar,2020-21,1,76108.0,230.0,76338.0,False,False,False,False,1,0,0
+110,Delhi,Jantar Mantar,2021-22,2,125545.0,521.0,126066.0,False,False,False,False,0,1,0
+110,Delhi,Jantar Mantar,2022-23,3,268778.0,4673.0,273451.0,False,False,False,False,0,0,1
+110,Delhi,Jantar Mantar,2023-24,4,236412.0,3916.0,240328.0,False,False,False,False,0,0,1
+110,Delhi,Jantar Mantar,2024-25,5,249987.0,4697.0,254684.0,False,False,False,False,0,0,1
+14,Jhansi,Kalinjar Fort,2019-20,0,81507.0,137.0,81644.0,False,False,False,False,0,0,0
+14,Jhansi,Kalinjar Fort,2020-21,1,80291.0,27.0,80318.0,False,False,False,False,1,0,0
+14,Jhansi,Kalinjar Fort,2021-22,2,88603.0,7.0,88610.0,False,False,False,False,0,1,0
+14,Jhansi,Kalinjar Fort,2022-23,3,95957.0,162.0,96119.0,False,False,False,False,0,0,1
+14,Jhansi,Kalinjar Fort,2023-24,4,116701.0,192.0,116893.0,False,False,False,False,0,0,1
+14,Jhansi,Kalinjar Fort,2024-25,5,128447.0,387.0,128834.0,False,False,False,False,0,0,1
+115,Guwahati,Kareghar of Ahom Kings,2019-20,0,119912.0,577.0,120489.0,False,False,False,False,0,0,0
+115,Guwahati,Kareghar of Ahom Kings,2020-21,1,54595.0,93.0,54688.0,False,False,False,False,1,0,0
+115,Guwahati,Kareghar of Ahom Kings,2021-22,2,46408.0,22.0,46430.0,False,False,False,False,0,1,0
+115,Guwahati,Kareghar of Ahom Kings,2022-23,3,242553.0,554.0,243107.0,False,False,False,False,0,0,1
+115,Guwahati,Kareghar of Ahom Kings,2023-24,4,217013.0,788.0,217801.0,False,False,False,False,0,0,1
+115,Guwahati,Kareghar of Ahom Kings,2024-25,5,197111.0,804.0,197915.0,False,False,False,False,0,0,1
+61,Bangalore,Keshava Temple,2019-20,0,178425.0,8653.0,187078.0,False,False,False,False,0,0,0
+61,Bangalore,Keshava Temple,2020-21,1,64222.0,196.0,64418.0,False,False,False,False,1,0,0
+61,Bangalore,Keshava Temple,2021-22,2,75793.0,662.0,76455.0,False,False,False,False,0,1,0
+61,Bangalore,Keshava Temple,2022-23,3,143360.0,5681.0,149041.0,False,False,False,False,0,0,1
+61,Bangalore,Keshava Temple,2023-24,4,169182.0,8510.0,177692.0,False,False,False,False,0,0,1
+61,Bangalore,Keshava Temple,2024-25,5,199083.0,10744.0,209827.0,False,False,False,False,0,0,1
+103,Delhi,Khan-I-Khana,2019-20,0,1782.0,45.0,1827.0,False,False,False,False,0,0,0
+103,Delhi,Khan-I-Khana,2020-21,1,3002.0,10.0,3012.0,False,False,False,False,1,0,0
+103,Delhi,Khan-I-Khana,2021-22,2,3448.0,30.0,3478.0,False,False,False,False,0,1,0
+103,Delhi,Khan-I-Khana,2022-23,3,4556.0,40.0,4596.0,False,False,False,False,0,0,1
+103,Delhi,Khan-I-Khana,2023-24,4,4782.0,27.0,4809.0,False,False,False,False,0,0,1
+103,Delhi,Khan-I-Khana,2024-25,5,4511.0,45.0,4556.0,False,False,False,False,0,0,1
+94,Mumbai,"Kolaba Fort, Alibag",2019-20,0,112405.0,112.0,112517.0,False,False,False,False,0,0,0
+94,Mumbai,"Kolaba Fort, Alibag",2020-21,1,50421.0,12.0,50433.0,False,False,False,False,1,0,0
+94,Mumbai,"Kolaba Fort, Alibag",2021-22,2,33073.0,19.0,33092.0,False,False,False,False,0,1,0
+94,Mumbai,"Kolaba Fort, Alibag",2022-23,3,43176.0,128.0,43304.0,False,False,False,False,0,0,1
+94,Mumbai,"Kolaba Fort, Alibag",2023-24,4,85088.0,156.0,85244.0,False,False,False,False,0,0,1
+94,Mumbai,"Kolaba Fort, Alibag",2024-25,5,94800.0,103.0,94903.0,False,False,False,False,0,0,1
+97,Mumbai,Kondiote Caves,2019-20,0,41490.0,591.0,42081.0,False,False,False,False,0,0,0
+97,Mumbai,Kondiote Caves,2020-21,1,167.0,0.0,167.0,False,False,False,False,1,0,0
+97,Mumbai,Kondiote Caves,2021-22,2,9373.0,76.0,9449.0,False,False,False,False,0,1,0
+97,Mumbai,Kondiote Caves,2022-23,3,43419.0,310.0,43729.0,False,False,False,False,0,0,1
+97,Mumbai,Kondiote Caves,2023-24,4,23859.0,659.0,24518.0,False,False,False,False,0,0,1
+97,Mumbai,Kondiote Caves,2024-25,5,25165.0,595.0,25760.0,False,False,False,False,0,0,1
+112,Delhi,Kotla Firoz Shah,2019-20,0,89397.0,810.0,90207.0,False,False,False,False,0,0,0
+112,Delhi,Kotla Firoz Shah,2020-21,1,27763.0,106.0,27869.0,False,False,False,False,1,0,0
+112,Delhi,Kotla Firoz Shah,2021-22,2,54145.0,106.0,54251.0,False,False,False,False,0,1,0
+112,Delhi,Kotla Firoz Shah,2022-23,3,119053.0,648.0,119701.0,False,False,False,False,0,0,1
+112,Delhi,Kotla Firoz Shah,2023-24,4,125734.0,922.0,126656.0,False,False,False,False,0,0,1
+112,Delhi,Kotla Firoz Shah,2024-25,5,105840.0,893.0,106733.0,False,False,False,False,0,0,1
+127,Jodhpur,Kumbhalgarh Fort,2019-20,0,495276.0,11208.0,506484.0,False,False,False,False,0,0,0
+127,Jodhpur,Kumbhalgarh Fort,2020-21,1,203050.0,208.0,203258.0,False,False,False,False,1,0,0
+127,Jodhpur,Kumbhalgarh Fort,2021-22,2,324707.0,257.0,324964.0,False,False,False,False,0,1,0
+127,Jodhpur,Kumbhalgarh Fort,2022-23,3,389625.0,4759.0,394384.0,False,False,False,False,0,0,1
+127,Jodhpur,Kumbhalgarh Fort,2023-24,4,343183.0,7390.0,350573.0,False,False,False,False,0,0,1
+127,Jodhpur,Kumbhalgarh Fort,2024-25,5,378780.0,9342.0,388122.0,False,False,False,False,0,0,1
+98,Mumbai,Lohgad Fort,2019-20,0,161651.0,579.0,162230.0,False,False,False,False,0,0,0
+98,Mumbai,Lohgad Fort,2020-21,1,31042.0,21.0,31063.0,False,False,False,False,1,0,0
+98,Mumbai,Lohgad Fort,2021-22,2,85972.0,59.0,86031.0,False,False,False,False,0,1,0
+98,Mumbai,Lohgad Fort,2022-23,3,275845.0,534.0,276379.0,False,False,False,False,0,0,1
+98,Mumbai,Lohgad Fort,2023-24,4,136790.0,207.0,136997.0,False,False,False,False,0,0,1
+98,Mumbai,Lohgad Fort,2024-25,5,138327.0,323.0,138650.0,False,False,False,False,0,0,1
+17,Sarnath,Lord Cornwallis Tomb,2019-20,0,18318.0,85.0,18403.0,False,False,False,False,0,0,0
+17,Sarnath,Lord Cornwallis Tomb,2020-21,1,5289.0,9.0,5298.0,False,False,False,False,1,0,0
+17,Sarnath,Lord Cornwallis Tomb,2021-22,2,7086.0,14.0,7100.0,False,False,False,False,0,1,0
+17,Sarnath,Lord Cornwallis Tomb,2022-23,3,9148.0,90.0,9238.0,False,False,False,False,0,0,1
+17,Sarnath,Lord Cornwallis Tomb,2023-24,4,15008.0,125.0,15133.0,False,False,False,False,0,0,1
+17,Sarnath,Lord Cornwallis Tomb,2024-25,5,25710.0,113.0,25823.0,False,False,False,False,0,0,1
+128,Jodhpur,Marble Pavillion and balustrade on the Ana Sagar Bund and ruins of the marble hammam behind the Ana Sagar Bund,2019-20,0,241299.0,98.0,241397.0,False,False,False,False,0,0,0
+128,Jodhpur,Marble Pavillion and balustrade on the Ana Sagar Bund and ruins of the marble hammam behind the Ana Sagar Bund,2020-21,1,131764.0,141.0,131905.0,False,False,False,False,1,0,0
+128,Jodhpur,Marble Pavillion and balustrade on the Ana Sagar Bund and ruins of the marble hammam behind the Ana Sagar Bund,2021-22,2,456924.0,23.0,456947.0,False,False,False,False,0,1,0
+128,Jodhpur,Marble Pavillion and balustrade on the Ana Sagar Bund and ruins of the marble hammam behind the Ana Sagar Bund,2022-23,3,709581.0,176.0,709757.0,False,False,False,False,0,0,1
+128,Jodhpur,Marble Pavillion and balustrade on the Ana Sagar Bund and ruins of the marble hammam behind the Ana Sagar Bund,2023-24,4,547782.0,150.0,547932.0,False,False,False,False,0,0,1
+128,Jodhpur,Marble Pavillion and balustrade on the Ana Sagar Bund and ruins of the marble hammam behind the Ana Sagar Bund,2024-25,5,370056.0,152.0,370208.0,False,False,False,False,0,0,1
+5,Agra,"Mariam Tomb, Sikandra",2019-20,0,22517.0,414.0,22931.0,False,False,False,False,0,0,0
+5,Agra,"Mariam Tomb, Sikandra",2020-21,1,9765.0,31.0,9796.0,False,False,False,False,1,0,0
+5,Agra,"Mariam Tomb, Sikandra",2021-22,2,17537.0,98.0,17635.0,False,False,False,False,0,1,0
+5,Agra,"Mariam Tomb, Sikandra",2022-23,3,39335.0,338.0,39673.0,False,False,False,False,0,0,1
+5,Agra,"Mariam Tomb, Sikandra",2023-24,4,18201.0,162.0,18363.0,False,False,False,False,0,0,1
+5,Agra,"Mariam Tomb, Sikandra",2024-25,5,18159.0,203.0,18362.0,False,False,False,False,0,0,1
+67,Kolkata,Matcalfe-Hall,2019-20,0,605.0,27.0,632.0,False,False,False,False,0,0,0
+67,Kolkata,Matcalfe-Hall,2020-21,1,7818.0,24.0,7842.0,False,False,False,False,1,0,0
+67,Kolkata,Matcalfe-Hall,2021-22,2,7812.0,36.0,7848.0,False,False,False,False,0,1,0
+67,Kolkata,Matcalfe-Hall,2022-23,3,17800.0,136.0,17936.0,False,False,False,False,0,0,1
+67,Kolkata,Matcalfe-Hall,2023-24,4,22639.0,210.0,22849.0,False,False,False,False,0,0,1
+67,Kolkata,Matcalfe-Hall,2024-25,5,32280.0,225.0,32505.0,False,False,False,False,0,0,1
+24,Thrissur,Mattancherry Palace Museum Kochi,2019-20,0,300465.0,79355.0,379820.0,False,False,False,False,0,0,0
+24,Thrissur,Mattancherry Palace Museum Kochi,2020-21,1,23026.0,177.0,23203.0,False,False,False,False,1,0,0
+24,Thrissur,Mattancherry Palace Museum Kochi,2021-22,2,65066.0,1118.0,66184.0,False,False,False,False,0,1,0
+24,Thrissur,Mattancherry Palace Museum Kochi,2022-23,3,281735.0,28218.0,309953.0,False,False,False,False,0,0,1
+24,Thrissur,Mattancherry Palace Museum Kochi,2023-24,4,,,,False,False,False,True,0,0,1
+24,Thrissur,Mattancherry Palace Museum Kochi,2024-25,5,,,,False,False,False,True,0,0,1
+9,Agra,Mausoleum,2019-20,0,474462.0,12536.0,486998.0,False,False,False,False,0,0,0
+9,Agra,Mausoleum,2020-21,1,91185.0,321.0,91506.0,False,False,False,False,1,0,0
+9,Agra,Mausoleum,2021-22,2,317653.0,643.0,318296.0,False,False,False,False,0,1,0
+9,Agra,Mausoleum,2022-23,3,766014.0,882.0,766896.0,False,False,False,False,0,0,1
+9,Agra,Mausoleum,2023-24,4,709754.0,4142.0,713896.0,False,False,False,False,0,0,1
+9,Agra,Mausoleum,2024-25,5,578712.0,8218.0,586930.0,False,False,False,False,0,0,1
+8,Agra,Mehtab Bagh,2019-20,0,178574.0,62325.0,240899.0,False,False,False,False,0,0,0
+8,Agra,Mehtab Bagh,2020-21,1,62652.0,544.0,63196.0,False,False,False,False,1,0,0
+8,Agra,Mehtab Bagh,2021-22,2,86213.0,1653.0,87866.0,False,False,False,False,0,1,0
+8,Agra,Mehtab Bagh,2022-23,3,111302.0,17079.0,128381.0,False,False,False,False,0,0,1
+8,Agra,Mehtab Bagh,2023-24,4,116458.0,24584.0,141042.0,False,False,False,False,0,0,1
+8,Agra,Mehtab Bagh,2024-25,5,129153.0,27516.0,156669.0,False,False,False,False,0,0,1
+32,Thiruchirapalli,Moovarkoil Kodambalur,2019-20,0,19114.0,46.0,19160.0,False,False,False,False,0,0,0
+32,Thiruchirapalli,Moovarkoil Kodambalur,2020-21,1,1476.0,9.0,1485.0,False,False,False,False,1,0,0
+32,Thiruchirapalli,Moovarkoil Kodambalur,2021-22,2,829.0,0.0,829.0,False,False,False,False,0,1,0
+32,Thiruchirapalli,Moovarkoil Kodambalur,2022-23,3,1874.0,4.0,1878.0,False,False,False,False,0,0,1
+32,Thiruchirapalli,Moovarkoil Kodambalur,2023-24,4,2277.0,5.0,2282.0,False,False,False,False,0,0,1
+32,Thiruchirapalli,Moovarkoil Kodambalur,2024-25,5,2517.0,14.0,2531.0,False,False,False,False,0,0,1
+143,Amaravati,Nagarjuna Konda,2019-20,0,19762.0,35.0,19797.0,False,False,False,False,0,0,0
+143,Amaravati,Nagarjuna Konda,2020-21,1,0.0,0.0,0.0,False,False,False,False,1,0,0
+143,Amaravati,Nagarjuna Konda,2021-22,2,2611.0,0.0,2611.0,False,False,False,False,0,1,0
+143,Amaravati,Nagarjuna Konda,2022-23,3,64591.0,379.0,64970.0,False,False,False,False,0,0,1
+143,Amaravati,Nagarjuna Konda,2023-24,4,46969.0,452.0,47421.0,False,False,False,False,0,0,1
+143,Amaravati,Nagarjuna Konda,2024-25,5,59130.0,696.0,59826.0,False,False,False,False,0,0,1
+35,Thiruchirapalli,"Natural Caven with Inscription Eladipattam, Sittannavasal",2019-20,0,23928.0,645.0,24573.0,False,False,False,False,0,0,0
+35,Thiruchirapalli,"Natural Caven with Inscription Eladipattam, Sittannavasal",2020-21,1,2490.0,19.0,2509.0,False,False,False,False,1,0,0
+35,Thiruchirapalli,"Natural Caven with Inscription Eladipattam, Sittannavasal",2021-22,2,22800.0,33.0,22833.0,False,False,False,False,0,1,0
+35,Thiruchirapalli,"Natural Caven with Inscription Eladipattam, Sittannavasal",2022-23,3,19705.0,51.0,19756.0,False,False,False,False,0,0,1
+35,Thiruchirapalli,"Natural Caven with Inscription Eladipattam, Sittannavasal",2023-24,4,20314.0,28.0,20342.0,False,False,False,False,0,0,1
+35,Thiruchirapalli,"Natural Caven with Inscription Eladipattam, Sittannavasal",2024-25,5,16744.0,43.0,16787.0,False,False,False,False,0,0,1
+19,Sarnath,Observatory of Man Singh,2019-20,0,83059.0,954.0,84013.0,False,False,False,False,0,0,0
+19,Sarnath,Observatory of Man Singh,2020-21,1,21379.0,11.0,21390.0,False,False,False,False,1,0,0
+19,Sarnath,Observatory of Man Singh,2021-22,2,36267.0,28.0,36295.0,False,False,False,False,0,1,0
+19,Sarnath,Observatory of Man Singh,2022-23,3,61542.0,511.0,62053.0,False,False,False,False,0,0,1
+19,Sarnath,Observatory of Man Singh,2023-24,4,135280.0,1179.0,136459.0,False,False,False,False,0,0,1
+19,Sarnath,Observatory of Man Singh,2024-25,5,85382.0,913.0,86295.0,False,False,False,False,0,0,1
+18,Sarnath,Old Fort (Shahi Fort) Jaunpur,2019-20,0,198922.0,114.0,199036.0,False,False,False,False,0,0,0
+18,Sarnath,Old Fort (Shahi Fort) Jaunpur,2020-21,1,67163.0,127.0,67290.0,False,False,False,False,1,0,0
+18,Sarnath,Old Fort (Shahi Fort) Jaunpur,2021-22,2,123344.0,201.0,123545.0,False,False,False,False,0,1,0
+18,Sarnath,Old Fort (Shahi Fort) Jaunpur,2022-23,3,167409.0,343.0,167752.0,False,False,False,False,0,0,1
+18,Sarnath,Old Fort (Shahi Fort) Jaunpur,2023-24,4,181562.0,272.0,181834.0,False,False,False,False,0,0,1
+18,Sarnath,Old Fort (Shahi Fort) Jaunpur,2024-25,5,150737.0,115.0,150852.0,False,False,False,False,0,0,1
+95,Mumbai,"Old Fort, Sholapur",2019-20,0,62238.0,45.0,62283.0,False,False,False,False,0,0,0
+95,Mumbai,"Old Fort, Sholapur",2020-21,1,11293.0,1.0,11294.0,False,False,False,False,1,0,0
+95,Mumbai,"Old Fort, Sholapur",2021-22,2,5755.0,5.0,5760.0,False,False,False,False,0,1,0
+95,Mumbai,"Old Fort, Sholapur",2022-23,3,35485.0,32.0,35517.0,False,False,False,False,0,0,1
+95,Mumbai,"Old Fort, Sholapur",2023-24,4,42956.0,28.0,42984.0,False,False,False,False,0,0,1
+95,Mumbai,"Old Fort, Sholapur",2024-25,5,,27.0,,False,False,True,True,0,0,1
+138,Srinagar,"Palace complex at Ramnagar, Distt. Udhampur",2019-20,0,6610.0,0.0,6610.0,False,False,False,False,0,0,0
+138,Srinagar,"Palace complex at Ramnagar, Distt. Udhampur",2020-21,1,2129.0,0.0,2129.0,False,False,False,False,1,0,0
+138,Srinagar,"Palace complex at Ramnagar, Distt. Udhampur",2021-22,2,5595.0,0.0,5595.0,False,False,False,False,0,1,0
+138,Srinagar,"Palace complex at Ramnagar, Distt. Udhampur",2022-23,3,5584.0,0.0,5584.0,False,False,False,False,0,0,1
+138,Srinagar,"Palace complex at Ramnagar, Distt. Udhampur",2023-24,4,6737.0,0.0,6737.0,False,False,False,False,0,0,1
+138,Srinagar,"Palace complex at Ramnagar, Distt. Udhampur",2024-25,5,5963.0,0.0,5963.0,False,False,False,False,0,0,1
+62,Bangalore,Palace of Tipu Sultan,2019-20,0,256964.0,10719.0,267683.0,False,False,False,False,0,0,0
+62,Bangalore,Palace of Tipu Sultan,2020-21,1,38706.0,270.0,38976.0,False,False,False,False,1,0,0
+62,Bangalore,Palace of Tipu Sultan,2021-22,2,100193.0,976.0,101169.0,False,False,False,False,0,1,0
+62,Bangalore,Palace of Tipu Sultan,2022-23,3,248490.0,7179.0,255669.0,False,False,False,False,0,0,1
+62,Bangalore,Palace of Tipu Sultan,2023-24,4,260269.0,11770.0,272039.0,False,False,False,False,0,0,1
+62,Bangalore,Palace of Tipu Sultan,2024-25,5,216281.0,13692.0,229973.0,False,False,False,False,0,0,1
+84,Aurangabad,"Pandulena Caves, Nasik",2019-20,0,202871.0,1128.0,203999.0,False,False,False,False,0,0,0
+84,Aurangabad,"Pandulena Caves, Nasik",2020-21,1,29.0,0.0,29.0,False,False,False,False,1,0,0
+84,Aurangabad,"Pandulena Caves, Nasik",2021-22,2,72661.0,221.0,72882.0,False,False,False,False,0,1,0
+84,Aurangabad,"Pandulena Caves, Nasik",2022-23,3,170146.0,795.0,170941.0,False,False,False,False,0,0,1
+84,Aurangabad,"Pandulena Caves, Nasik",2023-24,4,146016.0,1048.0,147064.0,False,False,False,False,0,0,1
+84,Aurangabad,"Pandulena Caves, Nasik",2024-25,5,277313.0,1222.0,278535.0,False,False,False,False,0,0,1
+12,Lucknow,Piprahwa & Ganwaria,2019-20,0,38342.0,3098.0,41440.0,False,False,False,False,0,0,0
+12,Lucknow,Piprahwa & Ganwaria,2020-21,1,12062.0,3.0,12065.0,False,False,False,False,1,0,0
+12,Lucknow,Piprahwa & Ganwaria,2021-22,2,23153.0,101.0,23254.0,False,False,False,False,0,1,0
+12,Lucknow,Piprahwa & Ganwaria,2022-23,3,37817.0,5620.0,43437.0,False,False,False,False,0,0,1
+12,Lucknow,Piprahwa & Ganwaria,2023-24,4,46824.0,18061.0,64885.0,False,False,False,False,0,0,1
+12,Lucknow,Piprahwa & Ganwaria,2024-25,5,38375.0,19317.0,57692.0,False,False,False,False,0,0,1
+113,Delhi,Purana Qila,2019-20,0,662300.0,5493.0,667793.0,False,False,False,False,0,0,0
+113,Delhi,Purana Qila,2020-21,1,200846.0,936.0,201782.0,False,False,False,False,1,0,0
+113,Delhi,Purana Qila,2021-22,2,466334.0,848.0,467182.0,False,False,False,False,0,1,0
+113,Delhi,Purana Qila,2022-23,3,598708.0,2445.0,601153.0,False,False,False,False,0,0,1
+113,Delhi,Purana Qila,2023-24,4,261483.0,1727.0,263210.0,False,False,False,False,0,0,1
+113,Delhi,Purana Qila,2024-25,5,192216.0,1600.0,193816.0,False,False,False,False,0,0,1
+108,Delhi,Qutub Minar,2019-20,0,2048146.0,255318.0,2303464.0,False,False,False,False,0,0,0
+108,Delhi,Qutub Minar,2020-21,1,476063.0,2849.0,478912.0,False,False,False,False,1,0,0
+108,Delhi,Qutub Minar,2021-22,2,1157664.0,8456.0,1166120.0,False,False,False,False,0,1,0
+108,Delhi,Qutub Minar,2022-23,3,1767548.0,115247.0,1882795.0,False,False,False,False,0,0,1
+108,Delhi,Qutub Minar,2023-24,4,3123643.0,220017.0,3343660.0,False,False,False,False,0,0,1
+108,Delhi,Qutub Minar,2024-25,5,3204760.0,220044.0,3424804.0,False,False,False,False,0,0,1
+93,Mumbai,Raigad Fort,2019-20,0,218338.0,82.0,218420.0,False,False,False,False,0,0,0
+93,Mumbai,Raigad Fort,2020-21,1,76438.0,0.0,76438.0,False,False,False,False,1,0,0
+93,Mumbai,Raigad Fort,2021-22,2,172058.0,12.0,172070.0,False,False,False,False,0,1,0
+93,Mumbai,Raigad Fort,2022-23,3,297029.0,97.0,297126.0,False,False,False,False,0,0,1
+93,Mumbai,Raigad Fort,2023-24,4,219556.0,101.0,219657.0,False,False,False,False,0,0,1
+93,Mumbai,Raigad Fort,2024-25,5,340940.0,146.0,341086.0,False,False,False,False,0,0,1
+77,Bhubaneswar,Rajarani Temple,2019-20,0,16916.0,506.0,17422.0,False,False,False,False,0,0,0
+77,Bhubaneswar,Rajarani Temple,2020-21,1,8237.0,3.0,8240.0,False,False,False,False,1,0,0
+77,Bhubaneswar,Rajarani Temple,2021-22,2,12385.0,52.0,12437.0,False,False,False,False,0,1,0
+77,Bhubaneswar,Rajarani Temple,2022-23,3,36420.0,644.0,37064.0,False,False,False,False,0,0,1
+77,Bhubaneswar,Rajarani Temple,2023-24,4,91333.0,1099.0,92432.0,False,False,False,False,0,0,1
+77,Bhubaneswar,Rajarani Temple,2024-25,5,112959.0,1072.0,114031.0,False,False,False,False,0,0,1
+7,Agra,Ram Bagh,2019-20,0,84051.0,355.0,84406.0,False,False,False,False,0,0,0
+7,Agra,Ram Bagh,2020-21,1,18599.0,54.0,18653.0,False,False,False,False,1,0,0
+7,Agra,Ram Bagh,2021-22,2,30965.0,95.0,31060.0,False,False,False,False,0,1,0
+7,Agra,Ram Bagh,2022-23,3,67489.0,1841.0,69330.0,False,False,False,False,0,0,1
+7,Agra,Ram Bagh,2023-24,4,56792.0,2073.0,58865.0,False,False,False,False,0,0,1
+7,Agra,Ram Bagh,2024-25,5,45707.0,546.0,46253.0,False,False,False,False,0,0,1
+116,Guwahati,Ranghar Pavillion Jaisagar Ruins,2019-20,0,69063.0,546.0,69609.0,False,False,False,False,0,0,0
+116,Guwahati,Ranghar Pavillion Jaisagar Ruins,2020-21,1,33939.0,75.0,34014.0,False,False,False,False,1,0,0
+116,Guwahati,Ranghar Pavillion Jaisagar Ruins,2021-22,2,39211.0,22.0,39233.0,False,False,False,False,0,1,0
+116,Guwahati,Ranghar Pavillion Jaisagar Ruins,2022-23,3,156804.0,519.0,157323.0,False,False,False,False,0,0,1
+116,Guwahati,Ranghar Pavillion Jaisagar Ruins,2023-24,4,163162.0,680.0,163842.0,False,False,False,False,0,0,1
+116,Guwahati,Ranghar Pavillion Jaisagar Ruins,2024-25,5,172275.0,796.0,173071.0,False,False,False,False,0,0,1
+16,Jhansi,Rani Jhansi Fort,2019-20,0,361294.0,705.0,361999.0,False,False,False,False,0,0,0
+16,Jhansi,Rani Jhansi Fort,2020-21,1,174622.0,107.0,174729.0,False,False,False,False,1,0,0
+16,Jhansi,Rani Jhansi Fort,2021-22,2,310233.0,58.0,310291.0,False,False,False,False,0,1,0
+16,Jhansi,Rani Jhansi Fort,2022-23,3,409822.0,292.0,410114.0,False,False,False,False,0,0,1
+16,Jhansi,Rani Jhansi Fort,2023-24,4,470724.0,611.0,471335.0,False,False,False,False,0,0,1
+16,Jhansi,Rani Jhansi Fort,2024-25,5,521136.0,625.0,521761.0,False,False,False,False,0,0,1
+73,Vadodara,"Rani Ki- Vav, Patan",2019-20,0,337134.0,3816.0,340950.0,False,False,False,False,0,0,0
+73,Vadodara,"Rani Ki- Vav, Patan",2020-21,1,96900.0,143.0,97043.0,False,False,False,False,1,0,0
+73,Vadodara,"Rani Ki- Vav, Patan",2021-22,2,268628.0,228.0,268856.0,False,False,False,False,0,1,0
+73,Vadodara,"Rani Ki- Vav, Patan",2022-23,3,351767.0,2247.0,354014.0,False,False,False,False,0,0,1
+73,Vadodara,"Rani Ki- Vav, Patan",2023-24,4,365892.0,3636.0,369528.0,False,False,False,False,0,0,1
+73,Vadodara,"Rani Ki- Vav, Patan",2024-25,5,367768.0,3977.0,371745.0,False,False,False,False,0,0,1
+15,Jhansi,Rani Lakshmi Bai Mahal,2019-20,0,15954.0,50.0,16004.0,False,False,False,False,0,0,0
+15,Jhansi,Rani Lakshmi Bai Mahal,2020-21,1,5712.0,5.0,5717.0,False,False,False,False,1,0,0
+15,Jhansi,Rani Lakshmi Bai Mahal,2021-22,2,10836.0,0.0,10836.0,False,False,False,False,0,1,0
+15,Jhansi,Rani Lakshmi Bai Mahal,2022-23,3,15470.0,27.0,15497.0,False,False,False,False,0,0,1
+15,Jhansi,Rani Lakshmi Bai Mahal,2023-24,4,23082.0,43.0,23125.0,False,False,False,False,0,0,1
+15,Jhansi,Rani Lakshmi Bai Mahal,2024-25,5,26359.0,43.0,26402.0,False,False,False,False,0,0,1
+106,Delhi,Red Fort,2019-20,0,2200044.0,91364.0,2291408.0,False,False,False,False,0,0,0
+106,Delhi,Red Fort,2020-21,1,187380.0,1438.0,188818.0,False,False,False,False,1,0,0
+106,Delhi,Red Fort,2021-22,2,1323501.0,5579.0,1329080.0,False,False,False,False,0,1,0
+106,Delhi,Red Fort,2022-23,3,2214658.0,49060.0,2263718.0,False,False,False,False,0,0,1
+106,Delhi,Red Fort,2023-24,4,2794083.0,84177.0,2878260.0,False,False,False,False,0,0,1
+106,Delhi,Red Fort,2024-25,5,2884399.0,79311.0,2963710.0,False,False,False,False,0,0,1
+130,Patna,Remains of Patliputra Site of Mauryan Place Kumrahar,2019-20,0,109962.0,207.0,110169.0,False,False,False,False,0,0,0
+130,Patna,Remains of Patliputra Site of Mauryan Place Kumrahar,2020-21,1,25834.0,,25834.0,False,True,False,True,1,0,0
+130,Patna,Remains of Patliputra Site of Mauryan Place Kumrahar,2021-22,2,81013.0,11.0,81024.0,False,False,False,False,0,1,0
+130,Patna,Remains of Patliputra Site of Mauryan Place Kumrahar,2022-23,3,110985.0,178.0,111163.0,False,False,False,False,0,0,1
+130,Patna,Remains of Patliputra Site of Mauryan Place Kumrahar,2023-24,4,125570.0,1322.0,126892.0,False,False,False,False,0,0,1
+130,Patna,Remains of Patliputra Site of Mauryan Place Kumrahar,2024-25,5,129868.0,1766.0,131634.0,False,False,False,False,0,0,1
+11,Lucknow,Residency Buildings,2019-20,0,116348.0,3367.0,119715.0,False,False,False,False,0,0,0
+11,Lucknow,Residency Buildings,2020-21,1,57194.0,37.0,57231.0,False,False,False,False,1,0,0
+11,Lucknow,Residency Buildings,2021-22,2,111829.0,130.0,111959.0,False,False,False,False,0,1,0
+11,Lucknow,Residency Buildings,2022-23,3,152480.0,1789.0,154269.0,False,False,False,False,0,0,1
+11,Lucknow,Residency Buildings,2023-24,4,169387.0,3571.0,172958.0,False,False,False,False,0,0,1
+11,Lucknow,Residency Buildings,2024-25,5,156542.0,4220.0,160762.0,False,False,False,False,0,0,1
+33,Thiruchirapalli,"Rock Cut Jain Temple, Sittanavasal",2019-20,0,31876.0,188.0,32064.0,False,False,False,False,0,0,0
+33,Thiruchirapalli,"Rock Cut Jain Temple, Sittanavasal",2020-21,1,41791.0,235.0,42026.0,False,False,False,False,1,0,0
+33,Thiruchirapalli,"Rock Cut Jain Temple, Sittanavasal",2021-22,2,44408.0,49.0,44457.0,False,False,False,False,0,1,0
+33,Thiruchirapalli,"Rock Cut Jain Temple, Sittanavasal",2022-23,3,56425.0,116.0,56541.0,False,False,False,False,0,0,1
+33,Thiruchirapalli,"Rock Cut Jain Temple, Sittanavasal",2023-24,4,54583.0,230.0,54813.0,False,False,False,False,0,0,1
+33,Thiruchirapalli,"Rock Cut Jain Temple, Sittanavasal",2024-25,5,44538.0,173.0,44711.0,False,False,False,False,0,0,1
+137,Shimla,"Rock-cut Temples and Sculptures, Masrur",2019-20,0,73439.0,1709.0,75148.0,False,False,False,False,0,0,0
+137,Shimla,"Rock-cut Temples and Sculptures, Masrur",2020-21,1,53123.0,209.0,53332.0,False,False,False,False,1,0,0
+137,Shimla,"Rock-cut Temples and Sculptures, Masrur",2021-22,2,40771.0,272.0,41043.0,False,False,False,False,0,1,0
+137,Shimla,"Rock-cut Temples and Sculptures, Masrur",2022-23,3,51355.0,1040.0,52395.0,False,False,False,False,0,0,1
+137,Shimla,"Rock-cut Temples and Sculptures, Masrur",2023-24,4,52434.0,2603.0,55037.0,False,False,False,False,0,0,1
+137,Shimla,"Rock-cut Temples and Sculptures, Masrur",2024-25,5,41624.0,1341.0,42965.0,False,False,False,False,0,0,1
+42,Bhopal,"Roopmati’s Pavilion,",2019-20,0,392485.0,1884.0,394369.0,False,False,False,False,0,0,0
+42,Bhopal,"Roopmati’s Pavilion,",2020-21,1,148680.0,91.0,148771.0,False,False,False,False,1,0,0
+42,Bhopal,"Roopmati’s Pavilion,",2021-22,2,336231.0,55.0,336286.0,False,False,False,False,0,1,0
+42,Bhopal,"Roopmati’s Pavilion,",2022-23,3,282678.0,763.0,283441.0,False,False,False,False,0,0,1
+42,Bhopal,"Roopmati’s Pavilion,",2023-24,4,327738.0,1031.0,328769.0,False,False,False,False,0,0,1
+42,Bhopal,"Roopmati’s Pavilion,",2024-25,5,276403.0,1037.0,277440.0,False,False,False,False,0,0,1
+74,Vadodara,"Rudabai Step Well, Adalaj",2019-20,0,388042.0,7907.0,395949.0,False,False,False,False,0,0,0
+74,Vadodara,"Rudabai Step Well, Adalaj",2020-21,1,86840.0,204.0,87044.0,False,False,False,False,1,0,0
+74,Vadodara,"Rudabai Step Well, Adalaj",2021-22,2,267707.0,522.0,268229.0,False,False,False,False,0,1,0
+74,Vadodara,"Rudabai Step Well, Adalaj",2022-23,3,369961.0,4837.0,374798.0,False,False,False,False,0,0,1
+74,Vadodara,"Rudabai Step Well, Adalaj",2023-24,4,378847.0,8090.0,386937.0,False,False,False,False,0,0,1
+74,Vadodara,"Rudabai Step Well, Adalaj",2024-25,5,277021.0,7890.0,284911.0,False,False,False,False,0,0,1
+136,Shimla,Ruined fort Kangra Fort),2019-20,0,91306.0,1758.0,93064.0,False,False,False,False,0,0,0
+136,Shimla,Ruined fort Kangra Fort),2020-21,1,100454.0,252.0,100706.0,False,False,False,False,1,0,0
+136,Shimla,Ruined fort Kangra Fort),2021-22,2,81894.0,351.0,82245.0,False,False,False,False,0,1,0
+136,Shimla,Ruined fort Kangra Fort),2022-23,3,124883.0,1233.0,126116.0,False,False,False,False,0,0,1
+136,Shimla,Ruined fort Kangra Fort),2023-24,4,137731.0,2478.0,140209.0,False,False,False,False,0,0,1
+136,Shimla,Ruined fort Kangra Fort),2024-25,5,127818.0,3067.0,130885.0,False,False,False,False,0,0,1
+79,Bhubaneswar,"Ruins of Buddhist Temples and Images, Lalitgiri",2019-20,0,44573.0,389.0,44962.0,False,False,False,False,0,0,0
+79,Bhubaneswar,"Ruins of Buddhist Temples and Images, Lalitgiri",2020-21,1,18359.0,8.0,18367.0,False,False,False,False,1,0,0
+79,Bhubaneswar,"Ruins of Buddhist Temples and Images, Lalitgiri",2021-22,2,24361.0,260.0,24621.0,False,False,False,False,0,1,0
+79,Bhubaneswar,"Ruins of Buddhist Temples and Images, Lalitgiri",2022-23,3,36047.0,269.0,36316.0,False,False,False,False,0,0,1
+79,Bhubaneswar,"Ruins of Buddhist Temples and Images, Lalitgiri",2023-24,4,41188.0,399.0,41587.0,False,False,False,False,0,0,1
+79,Bhubaneswar,"Ruins of Buddhist Temples and Images, Lalitgiri",2024-25,5,52329.0,454.0,52783.0,False,False,False,False,0,0,1
+111,Delhi,Safdarjung Tomb,2019-20,0,72938.0,15977.0,88915.0,False,False,False,False,0,0,0
+111,Delhi,Safdarjung Tomb,2020-21,1,56776.0,392.0,57168.0,False,False,False,False,1,0,0
+111,Delhi,Safdarjung Tomb,2021-22,2,74898.0,627.0,75525.0,False,False,False,False,0,1,0
+111,Delhi,Safdarjung Tomb,2022-23,3,142379.0,5967.0,148346.0,False,False,False,False,0,0,1
+111,Delhi,Safdarjung Tomb,2023-24,4,150012.0,9770.0,159782.0,False,False,False,False,0,0,1
+111,Delhi,Safdarjung Tomb,2024-25,5,143474.0,8413.0,151887.0,False,False,False,False,0,0,1
+88,Mumbai,Shaniwarw ada,2019-20,0,1128072.0,8505.0,1136577.0,False,False,False,False,0,0,0
+88,Mumbai,Shaniwarw ada,2020-21,1,160547.0,87.0,160634.0,False,False,False,False,1,0,0
+88,Mumbai,Shaniwarw ada,2021-22,2,516448.0,478.0,516926.0,False,False,False,False,0,1,0
+88,Mumbai,Shaniwarw ada,2022-23,3,1079741.0,4899.0,1084640.0,False,False,False,False,0,0,1
+88,Mumbai,Shaniwarw ada,2023-24,4,1260792.0,6542.0,1267334.0,False,False,False,False,0,0,1
+88,Mumbai,Shaniwarw ada,2024-25,5,1127815.0,6402.0,1134217.0,False,False,False,False,0,0,1
+102,Chandigarh,Sheikj Chillis Tomb,2019-20,0,39763.0,46.0,39809.0,False,False,False,False,0,0,0
+102,Chandigarh,Sheikj Chillis Tomb,2020-21,1,30292.0,75.0,30367.0,False,False,False,False,1,0,0
+102,Chandigarh,Sheikj Chillis Tomb,2021-22,2,52951.0,147.0,53098.0,False,False,False,False,0,1,0
+102,Chandigarh,Sheikj Chillis Tomb,2022-23,3,70332.0,286.0,70618.0,False,False,False,False,0,0,1
+102,Chandigarh,Sheikj Chillis Tomb,2023-24,4,74729.0,346.0,75075.0,False,False,False,False,0,0,1
+102,Chandigarh,Sheikj Chillis Tomb,2024-25,5,81589.0,217.0,81806.0,False,False,False,False,0,0,1
+134,Patna,Sher Shah’s Tomb,2019-20,0,208177.0,153.0,208330.0,False,False,False,False,0,0,0
+134,Patna,Sher Shah’s Tomb,2020-21,1,95051.0,,95051.0,False,True,False,True,1,0,0
+134,Patna,Sher Shah’s Tomb,2021-22,2,166266.0,17.0,166283.0,False,False,False,False,0,1,0
+134,Patna,Sher Shah’s Tomb,2022-23,3,261548.0,59.0,261607.0,False,False,False,False,0,0,1
+134,Patna,Sher Shah’s Tomb,2023-24,4,302528.0,154.0,302682.0,False,False,False,False,0,0,1
+134,Patna,Sher Shah’s Tomb,2024-25,5,311750.0,231.0,311981.0,False,False,False,False,0,0,1
+10,Lucknow,Site of Sahet Mahet,2019-20,0,74597.0,13628.0,88225.0,False,False,False,False,0,0,0
+10,Lucknow,Site of Sahet Mahet,2020-21,1,27201.0,35.0,27236.0,False,False,False,False,1,0,0
+10,Lucknow,Site of Sahet Mahet,2021-22,2,51796.0,306.0,52102.0,False,False,False,False,0,1,0
+10,Lucknow,Site of Sahet Mahet,2022-23,3,93790.0,43360.0,137150.0,False,False,False,False,0,0,1
+10,Lucknow,Site of Sahet Mahet,2023-24,4,108968.0,71120.0,180088.0,False,False,False,False,0,0,1
+10,Lucknow,Site of Sahet Mahet,2024-25,5,105345.0,73312.0,178657.0,False,False,False,False,0,0,1
+104,Delhi,Sultan Garhi Tomb,2019-20,0,530.0,6.0,536.0,False,False,False,False,0,0,0
+104,Delhi,Sultan Garhi Tomb,2020-21,1,22969.0,233.0,23202.0,False,False,False,False,1,0,0
+104,Delhi,Sultan Garhi Tomb,2021-22,2,299.0,5.0,304.0,False,False,False,False,0,1,0
+104,Delhi,Sultan Garhi Tomb,2022-23,3,2110.0,4.0,2114.0,False,False,False,False,0,0,1
+104,Delhi,Sultan Garhi Tomb,2023-24,4,132.0,6.0,138.0,False,False,False,False,0,0,1
+104,Delhi,Sultan Garhi Tomb,2024-25,5,674.0,9.0,683.0,False,False,False,False,0,0,1
+75,Bhubaneswar,"Sun Temple, Konarak",2019-20,0,1997427.0,5294.0,2002721.0,False,False,False,False,0,0,0
+75,Bhubaneswar,"Sun Temple, Konarak",2020-21,1,530886.0,142.0,531028.0,False,False,False,False,1,0,0
+75,Bhubaneswar,"Sun Temple, Konarak",2021-22,2,672891.0,314.0,673205.0,False,False,False,False,0,1,0
+75,Bhubaneswar,"Sun Temple, Konarak",2022-23,3,2405307.0,3608.0,2408915.0,False,False,False,False,0,0,1
+75,Bhubaneswar,"Sun Temple, Konarak",2023-24,4,3196903.0,5070.0,3201973.0,False,False,False,False,0,0,1
+75,Bhubaneswar,"Sun Temple, Konarak",2024-25,5,3571289.0,5059.0,3576348.0,False,False,False,False,0,0,1
+72,Vadodara,"Sun Temple, Modhera",2019-20,0,208028.0,3732.0,211760.0,False,False,False,False,0,0,0
+72,Vadodara,"Sun Temple, Modhera",2020-21,1,85407.0,103.0,85510.0,False,False,False,False,1,0,0
+72,Vadodara,"Sun Temple, Modhera",2021-22,2,224982.0,603.0,225585.0,False,False,False,False,0,1,0
+72,Vadodara,"Sun Temple, Modhera",2022-23,3,379560.0,24166.0,403726.0,False,False,False,False,0,0,1
+72,Vadodara,"Sun Temple, Modhera",2023-24,4,391694.0,3886.0,395580.0,False,False,False,False,0,0,1
+72,Vadodara,"Sun Temple, Modhera",2024-25,5,341424.0,4248.0,345672.0,False,False,False,False,0,0,1
+101,Chandigarh,Suraj Kund,2019-20,0,91447.0,72.0,91519.0,False,False,False,False,0,0,0
+101,Chandigarh,Suraj Kund,2020-21,1,11132.0,14.0,11146.0,False,False,False,False,1,0,0
+101,Chandigarh,Suraj Kund,2021-22,2,14651.0,49.0,14700.0,False,False,False,False,0,1,0
+101,Chandigarh,Suraj Kund,2022-23,3,12846.0,53.0,12899.0,False,False,False,False,0,0,1
+101,Chandigarh,Suraj Kund,2023-24,4,11084.0,8.0,11092.0,False,False,False,False,0,0,1
+101,Chandigarh,Suraj Kund,2024-25,5,10732.0,29.0,10761.0,False,False,False,False,0,0,1
+1,Agra,Taj Mahal,2019-20,0,4429710.0,645415.0,5075125.0,False,False,False,False,0,0,0
+1,Agra,Taj Mahal,2020-21,1,1259892.0,9034.0,1268926.0,False,False,False,False,1,0,0
+1,Agra,Taj Mahal,2021-22,2,3294611.0,38922.0,3333533.0,False,False,False,False,0,1,0
+1,Agra,Taj Mahal,2022-23,3,5052712.0,396900.0,5449612.0,False,False,False,False,0,0,1
+1,Agra,Taj Mahal,2023-24,4,6098876.0,681339.0,6780215.0,False,False,False,False,0,0,1
+1,Agra,Taj Mahal,2024-25,5,6264225.0,645624.0,6909849.0,False,False,False,False,0,0,1
+135,Raipur,"Temple of Laxman and old sites including sculptures Sirpur Temple, Sirpur",2019-20,0,63759.0,96.0,63855.0,False,False,False,False,0,0,0
+135,Raipur,"Temple of Laxman and old sites including sculptures Sirpur Temple, Sirpur",2020-21,1,44742.0,,44742.0,False,True,False,True,1,0,0
+135,Raipur,"Temple of Laxman and old sites including sculptures Sirpur Temple, Sirpur",2021-22,2,53049.0,1.0,53050.0,False,False,False,False,0,1,0
+135,Raipur,"Temple of Laxman and old sites including sculptures Sirpur Temple, Sirpur",2022-23,3,62971.0,19.0,62990.0,False,False,False,False,0,0,1
+135,Raipur,"Temple of Laxman and old sites including sculptures Sirpur Temple, Sirpur",2023-24,4,85422.0,67.0,85489.0,False,False,False,False,0,0,1
+135,Raipur,"Temple of Laxman and old sites including sculptures Sirpur Temple, Sirpur",2024-25,5,81085.0,34.0,81119.0,False,False,False,False,0,0,1
+57,Dharwad,"Temples & Sculpture shed, Lakkumdi",2019-20,0,13019.0,91.0,13110.0,False,False,False,False,0,0,0
+57,Dharwad,"Temples & Sculpture shed, Lakkumdi",2020-21,1,5652.0,0.0,5652.0,False,False,False,False,1,0,0
+57,Dharwad,"Temples & Sculpture shed, Lakkumdi",2021-22,2,8067.0,273.0,8340.0,False,False,False,False,0,1,0
+57,Dharwad,"Temples & Sculpture shed, Lakkumdi",2022-23,3,15171.0,104.0,15275.0,False,False,False,False,0,0,1
+57,Dharwad,"Temples & Sculpture shed, Lakkumdi",2023-24,4,19913.0,118.0,20031.0,False,False,False,False,0,0,1
+57,Dharwad,"Temples & Sculpture shed, Lakkumdi",2024-25,5,20621.0,179.0,20800.0,False,False,False,False,0,0,1
+78,Bhubaneswar,"The Hill Containing Many Valuable Sculptures and Images, Ratnagiri",2019-20,0,34562.0,571.0,35133.0,False,False,False,False,0,0,0
+78,Bhubaneswar,"The Hill Containing Many Valuable Sculptures and Images, Ratnagiri",2020-21,1,20616.0,20.0,20636.0,False,False,False,False,1,0,0
+78,Bhubaneswar,"The Hill Containing Many Valuable Sculptures and Images, Ratnagiri",2021-22,2,16316.0,32.0,16348.0,False,False,False,False,0,1,0
+78,Bhubaneswar,"The Hill Containing Many Valuable Sculptures and Images, Ratnagiri",2022-23,3,32742.0,293.0,33035.0,False,False,False,False,0,0,1
+78,Bhubaneswar,"The Hill Containing Many Valuable Sculptures and Images, Ratnagiri",2023-24,4,40823.0,554.0,41377.0,False,False,False,False,0,0,1
+78,Bhubaneswar,"The Hill Containing Many Valuable Sculptures and Images, Ratnagiri",2024-25,5,147824.0,676.0,148500.0,False,False,False,False,0,0,1
+39,Bhopal,The Palace in the Fort Burhanpur,2019-20,0,47305.0,272.0,47577.0,False,False,False,False,0,0,0
+39,Bhopal,The Palace in the Fort Burhanpur,2020-21,1,13926.0,27.0,13953.0,False,False,False,False,1,0,0
+39,Bhopal,The Palace in the Fort Burhanpur,2021-22,2,31284.0,76.0,31360.0,False,False,False,False,0,1,0
+39,Bhopal,The Palace in the Fort Burhanpur,2022-23,3,36808.0,165.0,36973.0,False,False,False,False,0,0,1
+39,Bhopal,The Palace in the Fort Burhanpur,2023-24,4,32577.0,280.0,32857.0,False,False,False,False,0,0,1
+39,Bhopal,The Palace in the Fort Burhanpur,2024-25,5,33258.0,410.0,33668.0,False,False,False,False,0,0,1
+29,Chennai,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",2019-20,0,43733.0,1063.0,44796.0,False,False,False,False,0,0,0
+29,Chennai,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",2020-21,1,58206.0,868.0,59074.0,False,False,False,False,1,0,0
+29,Chennai,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",2021-22,2,81313.0,258.0,81571.0,False,False,False,False,0,1,0
+29,Chennai,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",2022-23,3,62765.0,1014.0,63779.0,False,False,False,False,0,0,1
+29,Chennai,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",2023-24,4,49903.0,1109.0,51012.0,False,False,False,False,0,0,1
+29,Chennai,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",2024-25,5,42684.0,1324.0,44008.0,False,False,False,False,0,0,1
+34,Thiruchirapalli,"Tirumalai Nayak's Palace, Srivilliputhur",2019-20,0,30046.0,460.0,30506.0,False,False,False,False,0,0,0
+34,Thiruchirapalli,"Tirumalai Nayak's Palace, Srivilliputhur",2020-21,1,217.0,3.0,220.0,False,False,False,False,1,0,0
+34,Thiruchirapalli,"Tirumalai Nayak's Palace, Srivilliputhur",2021-22,2,530.0,0.0,530.0,False,False,False,False,0,1,0
+34,Thiruchirapalli,"Tirumalai Nayak's Palace, Srivilliputhur",2022-23,3,856.0,0.0,856.0,False,False,False,False,0,0,1
+34,Thiruchirapalli,"Tirumalai Nayak's Palace, Srivilliputhur",2023-24,4,911.0,3.0,914.0,False,False,False,False,0,0,1
+34,Thiruchirapalli,"Tirumalai Nayak's Palace, Srivilliputhur",2024-25,5,927.0,0.0,927.0,False,False,False,False,0,0,1
+21,Sarnath,Tomb of Lal Khan,2019-20,0,6819.0,9.0,6828.0,False,False,False,False,0,0,0
+21,Sarnath,Tomb of Lal Khan,2020-21,1,1972.0,2.0,1974.0,False,False,False,False,1,0,0
+21,Sarnath,Tomb of Lal Khan,2021-22,2,2515.0,4.0,2519.0,False,False,False,False,0,1,0
+21,Sarnath,Tomb of Lal Khan,2022-23,3,4804.0,32.0,4836.0,False,False,False,False,0,0,1
+21,Sarnath,Tomb of Lal Khan,2023-24,4,4480.0,20.0,4500.0,False,False,False,False,0,0,1
+21,Sarnath,Tomb of Lal Khan,2024-25,5,5907.0,50.0,5957.0,False,False,False,False,0,0,1
+82,Aurangabad,Tomb of Rabia Dura ni (Bibi Ka Maqbara),2019-20,0,1111778.0,9530.0,1121308.0,False,False,False,False,0,0,0
+82,Aurangabad,Tomb of Rabia Dura ni (Bibi Ka Maqbara),2020-21,1,203791.0,100.0,203891.0,False,False,False,False,1,0,0
+82,Aurangabad,Tomb of Rabia Dura ni (Bibi Ka Maqbara),2021-22,2,397374.0,536.0,397910.0,False,False,False,False,0,1,0
+82,Aurangabad,Tomb of Rabia Dura ni (Bibi Ka Maqbara),2022-23,3,1183263.0,5606.0,1188869.0,False,False,False,False,0,0,1
+82,Aurangabad,Tomb of Rabia Dura ni (Bibi Ka Maqbara),2023-24,4,1295076.0,9606.0,1304682.0,False,False,False,False,0,0,1
+82,Aurangabad,Tomb of Rabia Dura ni (Bibi Ka Maqbara),2024-25,5,2004535.0,10612.0,2015147.0,False,False,False,False,0,0,1
+105,Delhi,Tughlaqabad Fort,2019-20,0,76135.0,908.0,77043.0,False,False,False,False,0,0,0
+105,Delhi,Tughlaqabad Fort,2020-21,1,12856.0,109.0,12965.0,False,False,False,False,1,0,0
+105,Delhi,Tughlaqabad Fort,2021-22,2,20925.0,132.0,21057.0,False,False,False,False,0,1,0
+105,Delhi,Tughlaqabad Fort,2022-23,3,127556.0,619.0,128175.0,False,False,False,False,0,0,1
+105,Delhi,Tughlaqabad Fort,2023-24,4,32249.0,316.0,32565.0,False,False,False,False,0,0,1
+105,Delhi,Tughlaqabad Fort,2024-25,5,28176.0,243.0,28419.0,False,False,False,False,0,0,1
+142,Amaravati,Undavalli Caves,2019-20,0,109307.0,494.0,109801.0,False,False,False,False,0,0,0
+142,Amaravati,Undavalli Caves,2020-21,1,52924.0,89.0,53013.0,False,False,False,False,1,0,0
+142,Amaravati,Undavalli Caves,2021-22,2,77133.0,40.0,77173.0,False,False,False,False,0,1,0
+142,Amaravati,Undavalli Caves,2022-23,3,127594.0,362.0,127956.0,False,False,False,False,0,0,1
+142,Amaravati,Undavalli Caves,2023-24,4,136853.0,411.0,137264.0,False,False,False,False,0,0,1
+142,Amaravati,Undavalli Caves,2024-25,5,146263.0,374.0,146637.0,False,False,False,False,0,0,1
+119,Goa,Upper Fort Aguada,2019-20,0,837898.0,8104.0,846002.0,False,False,False,False,0,0,0
+119,Goa,Upper Fort Aguada,2020-21,1,379726.0,340.0,380066.0,False,False,False,False,1,0,0
+119,Goa,Upper Fort Aguada,2021-22,2,65676.0,1057.0,66733.0,False,False,False,False,0,1,0
+119,Goa,Upper Fort Aguada,2022-23,3,1014969.0,8320.0,1023289.0,False,False,False,False,0,0,1
+119,Goa,Upper Fort Aguada,2023-24,4,1191829.0,10411.0,1202240.0,False,False,False,False,0,0,1
+119,Goa,Upper Fort Aguada,2024-25,5,1358790.0,13025.0,1371815.0,False,False,False,False,0,0,1
+122,Hyderabad,Warangal Fort,2019-20,0,92690.0,277.0,92967.0,False,False,False,False,0,0,0
+122,Hyderabad,Warangal Fort,2020-21,1,64339.0,54.0,64393.0,False,False,False,False,1,0,0
+122,Hyderabad,Warangal Fort,2021-22,2,85946.0,106.0,86052.0,False,False,False,False,0,1,0
+122,Hyderabad,Warangal Fort,2022-23,3,137235.0,239.0,137474.0,False,False,False,False,0,0,1
+122,Hyderabad,Warangal Fort,2023-24,4,108267.0,242.0,108509.0,False,False,False,False,0,0,1
+122,Hyderabad,Warangal Fort,2024-25,5,106447.0,280.0,106727.0,False,False,False,False,0,0,1
+50,Bhopal,"Western Group of Temples, Khajuraho",2019-20,0,244995.0,41741.0,286736.0,False,False,False,False,0,0,0
+50,Bhopal,"Western Group of Temples, Khajuraho",2020-21,1,128515.0,275.0,128790.0,False,False,False,False,1,0,0
+50,Bhopal,"Western Group of Temples, Khajuraho",2021-22,2,243475.0,795.0,244270.0,False,False,False,False,0,1,0
+50,Bhopal,"Western Group of Temples, Khajuraho",2022-23,3,419259.0,15271.0,434530.0,False,False,False,False,0,0,1
+50,Bhopal,"Western Group of Temples, Khajuraho",2023-24,4,436517.0,27082.0,463599.0,False,False,False,False,0,0,1
+50,Bhopal,"Western Group of Temples, Khajuraho",2024-25,5,523075.0,38478.0,561553.0,False,False,False,False,0,0,1

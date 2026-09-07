@@ -1,0 +1,865 @@
+{
+  "asi_file": "monument_visitors_2019_20_to_2024_25_FULL.csv",
+  "kaggle_audit": {
+    "filename": "indian_tourism_kaggle_travel_data.csv",
+    "source_note": "Not originally in workspace; downloaded public copy of sushanthnaidu24/indian-tourism-dataset as used by aryankasundra509/tourism-demand-forecasting (travel_data.csv).",
+    "rows": 20000,
+    "columns": 25,
+    "column_names": [
+      "Date",
+      "Month",
+      "Year",
+      "Season",
+      "Day_of_Week",
+      "Is_Weekend",
+      "Weather_Type",
+      "Location_City",
+      "Location_State",
+      "Country",
+      "Zone",
+      "Place_Name",
+      "Place_Type",
+      "Establishment_Year",
+      "Google_Rating",
+      "Significance",
+      "Airport_Within_50km",
+      "Weekly_Off",
+      "DSLR_Allowed",
+      "Review_Count_Lakhs",
+      "Visitors_Count",
+      "Ticket_Price",
+      "Revenue",
+      "Tourist_Type",
+      "Rating"
+    ],
+    "dtypes": {
+      "Date": "str",
+      "Month": "str",
+      "Year": "int64",
+      "Season": "str",
+      "Day_of_Week": "str",
+      "Is_Weekend": "str",
+      "Weather_Type": "str",
+      "Location_City": "str",
+      "Location_State": "str",
+      "Country": "str",
+      "Zone": "str",
+      "Place_Name": "str",
+      "Place_Type": "str",
+      "Establishment_Year": "str",
+      "Google_Rating": "float64",
+      "Significance": "str",
+      "Airport_Within_50km": "str",
+      "Weekly_Off": "str",
+      "DSLR_Allowed": "str",
+      "Review_Count_Lakhs": "float64",
+      "Visitors_Count": "int64",
+      "Ticket_Price": "int64",
+      "Revenue": "int64",
+      "Tourist_Type": "str",
+      "Rating": "float64"
+    },
+    "missingness": {
+      "Date": 0,
+      "Month": 0,
+      "Year": 0,
+      "Season": 0,
+      "Day_of_Week": 0,
+      "Is_Weekend": 0,
+      "Weather_Type": 0,
+      "Location_City": 0,
+      "Location_State": 0,
+      "Country": 0,
+      "Zone": 0,
+      "Place_Name": 0,
+      "Place_Type": 0,
+      "Establishment_Year": 0,
+      "Google_Rating": 0,
+      "Significance": 0,
+      "Airport_Within_50km": 0,
+      "Weekly_Off": 18311,
+      "DSLR_Allowed": 0,
+      "Review_Count_Lakhs": 0,
+      "Visitors_Count": 0,
+      "Ticket_Price": 0,
+      "Revenue": 0,
+      "Tourist_Type": 0,
+      "Rating": 0
+    },
+    "unique_Place_Name": 321,
+    "duplicate_rows": 0,
+    "years": [
+      2023,
+      2024,
+      2025
+    ],
+    "has_Visitors_Count": true,
+    "visitors_compatible_with_ASI": false,
+    "visitors_note": "Visitors_Count exists but is not compatible with ASI annual monument counts (Kaggle min=8, max=4237, median looks like daily-scale synthetic/operational counts, not ASI FY totals).",
+    "data_character": "mixed: destination metadata repeated across dated rows 2023\u20132025; Visitors_Count appears generated/operational-scale, not official ASI annual footfall",
+    "sample_head": [
+      {
+        "Date": "2023-02-21",
+        "Month": "February",
+        "Year": 2023,
+        "Season": "Winter",
+        "Day_of_Week": "Tuesday",
+        "Is_Weekend": "No",
+        "Weather_Type": "Pleasant",
+        "Location_City": "Goa",
+        "Location_State": "Goa",
+        "Country": "India",
+        "Zone": "Southern",
+        "Place_Name": "Chapora Fort",
+        "Place_Type": "Fort",
+        "Establishment_Year": "1617",
+        "Google_Rating": 4.3,
+        "Significance": "Historical",
+        "Airport_Within_50km": "Yes",
+        "Weekly_Off": NaN,
+        "DSLR_Allowed": "Yes",
+        "Review_Count_Lakhs": 0.19,
+        "Visitors_Count": 330,
+        "Ticket_Price": 0,
+        "Revenue": 0,
+        "Tourist_Type": "International",
+        "Rating": 4.3
+      },
+      {
+        "Date": "2023-06-28",
+        "Month": "June",
+        "Year": 2023,
+        "Season": "Monsoon",
+        "Day_of_Week": "Wednesday",
+        "Is_Weekend": "No",
+        "Weather_Type": "Rainy",
+        "Location_City": "Guwahati",
+        "Location_State": "Assam",
+        "Country": "India",
+        "Zone": "North Eastern",
+        "Place_Name": "Pobitora Wildlife Sanctuary",
+        "Place_Type": "Wildlife Sanctuary",
+        "Establishment_Year": "1987",
+        "Google_Rating": 4.3,
+        "Significance": "Wildlife",
+        "Airport_Within_50km": "Yes",
+        "Weekly_Off": NaN,
+        "DSLR_Allowed": "Yes",
+        "Review_Count_Lakhs": 0.037,
+        "Visitors_Count": 72,
+        "Ticket_Price": 492,
+        "Revenue": 35424,
+        "Tourist_Type": "International",
+        "Rating": 4.3
+      }
+    ]
+  },
+  "matching": {
+    "n_asi": 145,
+    "n_matched": 15,
+    "n_unmatched": 130,
+    "n_ambiguous": 0,
+    "ambiguous": [],
+    "match_methods": {
+      "unmatched": 130,
+      "manual_alias": 7,
+      "normalized_exact": 5,
+      "conservative_fuzzy": 3
+    }
+  },
+  "splits": {
+    "train": "target periods 2020-21 through 2022-23",
+    "val": "2023-24",
+    "test": "2024-25"
+  },
+  "kaggle_columns_selected": [
+    "kaggle_google_rating",
+    "kaggle_ticket_price",
+    "kaggle_matched",
+    "kaggle_place_type",
+    "kaggle_zone",
+    "kaggle_significance",
+    "kaggle_airport"
+  ],
+  "national_columns_selected": [
+    "national_lag1_total",
+    "national_lag1_growth",
+    "national_lag1_foreign_share",
+    "state_covid_domestic_drop"
+  ],
+  "excluded": [
+    "Visitors_Count",
+    "Revenue",
+    "Tourist_Type row-level",
+    "same-year national totals",
+    "quarterly FTA shares as annual features"
+  ],
+  "best_ml_by_val_mae": "asi_kaggle",
+  "ml_beats_persistence_val": false,
+  "ml_beats_persistence_test": false,
+  "crowd_f1_delta_vs_persistence_test": {
+    "asi_only": -0.33485775698643766,
+    "asi_kaggle": -0.3436360655713474,
+    "asi_national": -0.39357825152250314,
+    "asi_kaggle_national": -0.39097293356262364
+  },
+  "results": {
+    "persistence": {
+      "val": {
+        "n": 142,
+        "MAE": 77256.2042253521,
+        "RMSE": 207301.5760016154,
+        "R2": 0.9274885785037429,
+        "MAPE_pct": 34.00876301950582
+      },
+      "test": {
+        "n": 143,
+        "MAE": 39718.68531468532,
+        "RMSE": 89457.40125446746,
+        "R2": 0.9874807096071495,
+        "MAPE_pct": 14.321577616996322
+      },
+      "crowd_val": {
+        "accuracy": 0.5774647887323944,
+        "macro_f1": 0.43627261627261626,
+        "high_veryhigh_recall": 0.928,
+        "confusion_matrix": {
+          "labels": [
+            "LOW",
+            "MODERATE",
+            "HIGH",
+            "VERY HIGH"
+          ],
+          "matrix": [
+            [
+              2,
+              1,
+              3,
+              0
+            ],
+            [
+              0,
+              2,
+              3,
+              6
+            ],
+            [
+              0,
+              2,
+              16,
+              7
+            ],
+            [
+              1,
+              6,
+              31,
+              62
+            ]
+          ]
+        },
+        "n": 142
+      },
+      "crowd_test": {
+        "accuracy": 0.5594405594405595,
+        "macro_f1": 0.4844174269122403,
+        "high_veryhigh_recall": 0.8869565217391304,
+        "confusion_matrix": {
+          "labels": [
+            "LOW",
+            "MODERATE",
+            "HIGH",
+            "VERY HIGH"
+          ],
+          "matrix": [
+            [
+              4,
+              5,
+              1,
+              0
+            ],
+            [
+              1,
+              9,
+              6,
+              2
+            ],
+            [
+              1,
+              8,
+              12,
+              12
+            ],
+            [
+              1,
+              3,
+              23,
+              55
+            ]
+          ]
+        },
+        "n": 143
+      },
+      "numeric_features": [
+        "lag_1_total"
+      ],
+      "categorical_features": []
+    },
+    "asi_only": {
+      "numeric_features": [
+        "lag_1_total",
+        "lag_2_total",
+        "lag_3_total",
+        "rolling_mean_2",
+        "rolling_mean_3",
+        "previous_growth_rate",
+        "recent_trend",
+        "lag_1_domestic_share",
+        "year_index",
+        "covid_year",
+        "recovery_year",
+        "post_covid",
+        "n_prior_obs",
+        "log_lag_1"
+      ],
+      "categorical_features": [
+        "asi_circle"
+      ],
+      "val": {
+        "n": 142,
+        "MAE": 273508.2975499371,
+        "RMSE": 686268.3136024058,
+        "R2": 0.20532581426637886,
+        "MAPE_pct": 106.71796475272994
+      },
+      "test": {
+        "n": 143,
+        "MAE": 243209.7980755851,
+        "RMSE": 639868.7249515585,
+        "R2": 0.3594855602323487,
+        "MAPE_pct": 51.14478773216088
+      },
+      "crowd_val": {
+        "accuracy": 0.15492957746478872,
+        "macro_f1": 0.1602641210700553,
+        "high_veryhigh_recall": 0.248,
+        "confusion_matrix": {
+          "labels": [
+            "LOW",
+            "MODERATE",
+            "HIGH",
+            "VERY HIGH"
+          ],
+          "matrix": [
+            [
+              3,
+              2,
+              0,
+              1
+            ],
+            [
+              7,
+              2,
+              1,
+              1
+            ],
+            [
+              13,
+              3,
+              6,
+              3
+            ],
+            [
+              57,
+              21,
+              11,
+              11
+            ]
+          ]
+        },
+        "n": 142
+      },
+      "crowd_test": {
+        "accuracy": 0.16783216783216784,
+        "macro_f1": 0.14955966992580266,
+        "high_veryhigh_recall": 0.30434782608695654,
+        "confusion_matrix": {
+          "labels": [
+            "LOW",
+            "MODERATE",
+            "HIGH",
+            "VERY HIGH"
+          ],
+          "matrix": [
+            [
+              4,
+              1,
+              1,
+              4
+            ],
+            [
+              11,
+              2,
+              4,
+              1
+            ],
+            [
+              11,
+              14,
+              4,
+              4
+            ],
+            [
+              33,
+              22,
+              13,
+              14
+            ]
+          ]
+        },
+        "n": 143
+      }
+    },
+    "asi_kaggle": {
+      "numeric_features": [
+        "lag_1_total",
+        "lag_2_total",
+        "lag_3_total",
+        "rolling_mean_2",
+        "rolling_mean_3",
+        "previous_growth_rate",
+        "recent_trend",
+        "lag_1_domestic_share",
+        "year_index",
+        "covid_year",
+        "recovery_year",
+        "post_covid",
+        "n_prior_obs",
+        "log_lag_1",
+        "kaggle_google_rating",
+        "kaggle_ticket_price",
+        "kaggle_matched"
+      ],
+      "categorical_features": [
+        "asi_circle",
+        "kaggle_place_type",
+        "kaggle_zone",
+        "kaggle_significance",
+        "kaggle_airport"
+      ],
+      "val": {
+        "n": 142,
+        "MAE": 269480.74899823416,
+        "RMSE": 653932.0672333558,
+        "R2": 0.27844991756118687,
+        "MAPE_pct": 104.95644507659358
+      },
+      "test": {
+        "n": 143,
+        "MAE": 234684.53905924322,
+        "RMSE": 582386.1433323179,
+        "R2": 0.46939758242739926,
+        "MAPE_pct": 51.1416379801361
+      },
+      "crowd_val": {
+        "accuracy": 0.15492957746478872,
+        "macro_f1": 0.16964821160848145,
+        "high_veryhigh_recall": 0.24,
+        "confusion_matrix": {
+          "labels": [
+            "LOW",
+            "MODERATE",
+            "HIGH",
+            "VERY HIGH"
+          ],
+          "matrix": [
+            [
+              3,
+              2,
+              0,
+              1
+            ],
+            [
+              7,
+              3,
+              0,
+              1
+            ],
+            [
+              14,
+              2,
+              6,
+              3
+            ],
+            [
+              57,
+              22,
+              11,
+              10
+            ]
+          ]
+        },
+        "n": 142
+      },
+      "crowd_test": {
+        "accuracy": 0.16083916083916083,
+        "macro_f1": 0.14078136134089292,
+        "high_veryhigh_recall": 0.28695652173913044,
+        "confusion_matrix": {
+          "labels": [
+            "LOW",
+            "MODERATE",
+            "HIGH",
+            "VERY HIGH"
+          ],
+          "matrix": [
+            [
+              4,
+              1,
+              1,
+              4
+            ],
+            [
+              11,
+              2,
+              4,
+              1
+            ],
+            [
+              12,
+              14,
+              3,
+              4
+            ],
+            [
+              33,
+              23,
+              12,
+              14
+            ]
+          ]
+        },
+        "n": 143
+      }
+    },
+    "asi_national": {
+      "numeric_features": [
+        "lag_1_total",
+        "lag_2_total",
+        "lag_3_total",
+        "rolling_mean_2",
+        "rolling_mean_3",
+        "previous_growth_rate",
+        "recent_trend",
+        "lag_1_domestic_share",
+        "year_index",
+        "covid_year",
+        "recovery_year",
+        "post_covid",
+        "n_prior_obs",
+        "log_lag_1",
+        "national_lag1_total",
+        "national_lag1_growth",
+        "national_lag1_foreign_share",
+        "state_covid_domestic_drop"
+      ],
+      "categorical_features": [
+        "asi_circle"
+      ],
+      "val": {
+        "n": 142,
+        "MAE": 301035.38194136485,
+        "RMSE": 718638.5032752167,
+        "R2": 0.12859072983066777,
+        "MAPE_pct": 109.50369271711664
+      },
+      "test": {
+        "n": 143,
+        "MAE": 299076.1537739448,
+        "RMSE": 724958.6236796271,
+        "R2": 0.17780733405753324,
+        "MAPE_pct": 70.45792176126963
+      },
+      "crowd_val": {
+        "accuracy": 0.1056338028169014,
+        "macro_f1": 0.11356913965156484,
+        "high_veryhigh_recall": 0.112,
+        "confusion_matrix": {
+          "labels": [
+            "LOW",
+            "MODERATE",
+            "HIGH",
+            "VERY HIGH"
+          ],
+          "matrix": [
+            [
+              5,
+              0,
+              0,
+              1
+            ],
+            [
+              9,
+              1,
+              1,
+              0
+            ],
+            [
+              16,
+              4,
+              3,
+              2
+            ],
+            [
+              78,
+              13,
+              3,
+              6
+            ]
+          ]
+        },
+        "n": 142
+      },
+      "crowd_test": {
+        "accuracy": 0.1048951048951049,
+        "macro_f1": 0.0908391753897372,
+        "high_veryhigh_recall": 0.08695652173913043,
+        "confusion_matrix": {
+          "labels": [
+            "LOW",
+            "MODERATE",
+            "HIGH",
+            "VERY HIGH"
+          ],
+          "matrix": [
+            [
+              8,
+              2,
+              0,
+              0
+            ],
+            [
+              17,
+              1,
+              0,
+              0
+            ],
+            [
+              28,
+              2,
+              1,
+              2
+            ],
+            [
+              72,
+              3,
+              2,
+              5
+            ]
+          ]
+        },
+        "n": 143
+      }
+    },
+    "asi_kaggle_national": {
+      "numeric_features": [
+        "lag_1_total",
+        "lag_2_total",
+        "lag_3_total",
+        "rolling_mean_2",
+        "rolling_mean_3",
+        "previous_growth_rate",
+        "recent_trend",
+        "lag_1_domestic_share",
+        "year_index",
+        "covid_year",
+        "recovery_year",
+        "post_covid",
+        "n_prior_obs",
+        "log_lag_1",
+        "kaggle_google_rating",
+        "kaggle_ticket_price",
+        "kaggle_matched",
+        "national_lag1_total",
+        "national_lag1_growth",
+        "national_lag1_foreign_share",
+        "state_covid_domestic_drop"
+      ],
+      "categorical_features": [
+        "asi_circle",
+        "kaggle_place_type",
+        "kaggle_zone",
+        "kaggle_significance",
+        "kaggle_airport"
+      ],
+      "val": {
+        "n": 142,
+        "MAE": 293100.2517317116,
+        "RMSE": 704585.4851796894,
+        "R2": 0.16233842145822053,
+        "MAPE_pct": 111.59061249220339
+      },
+      "test": {
+        "n": 143,
+        "MAE": 299576.58898897195,
+        "RMSE": 715558.0676597635,
+        "R2": 0.19899187192544043,
+        "MAPE_pct": 66.68888640378321
+      },
+      "crowd_val": {
+        "accuracy": 0.1267605633802817,
+        "macro_f1": 0.1424046833812682,
+        "high_veryhigh_recall": 0.144,
+        "confusion_matrix": {
+          "labels": [
+            "LOW",
+            "MODERATE",
+            "HIGH",
+            "VERY HIGH"
+          ],
+          "matrix": [
+            [
+              5,
+              0,
+              0,
+              1
+            ],
+            [
+              8,
+              2,
+              0,
+              1
+            ],
+            [
+              15,
+              4,
+              4,
+              2
+            ],
+            [
+              69,
+              19,
+              5,
+              7
+            ]
+          ]
+        },
+        "n": 142
+      },
+      "crowd_test": {
+        "accuracy": 0.11188811188811189,
+        "macro_f1": 0.09344449334961669,
+        "high_veryhigh_recall": 0.11304347826086956,
+        "confusion_matrix": {
+          "labels": [
+            "LOW",
+            "MODERATE",
+            "HIGH",
+            "VERY HIGH"
+          ],
+          "matrix": [
+            [
+              8,
+              2,
+              0,
+              0
+            ],
+            [
+              17,
+              1,
+              0,
+              0
+            ],
+            [
+              26,
+              3,
+              1,
+              3
+            ],
+            [
+              63,
+              10,
+              3,
+              6
+            ]
+          ]
+        },
+        "n": 143
+      }
+    }
+  },
+  "decision": "CASE C (+ B): Persistence remains the best numerical forecaster on both validation and test. Adding Kaggle metadata and lagged national/state context did not produce a leakage-safe ML model that beats last-year demand. Keep ASI historical demand (persistence) as the prediction layer. Reserve Kaggle metadata for later recommendation. Reserve national quarterly seasonality for a labeled time-period heuristic, not annual regression.",
+  "error_focus": [
+    {
+      "monument": "Taj Mahal",
+      "actual": 6909849.0,
+      "predicted": 1760205.8209293853,
+      "baseline": 6780215.0,
+      "abs_err": 5149643.179070614
+    },
+    {
+      "monument": "Group of Monuments, Hampi",
+      "actual": 1008721.0,
+      "predicted": 333782.90930118156,
+      "baseline": 1012130.0,
+      "abs_err": 674938.0906988184
+    },
+    {
+      "monument": "Buddhist Monuments, Sanchi",
+      "actual": 315532.0,
+      "predicted": 140263.443593724,
+      "baseline": 311760.0,
+      "abs_err": 175268.556406276
+    },
+    {
+      "monument": "Group of Monuments, Mamallapuram",
+      "actual": 1008464.0,
+      "predicted": 842498.483987377,
+      "baseline": 1256965.0,
+      "abs_err": 165965.51601262297
+    },
+    {
+      "monument": "Qutub Minar",
+      "actual": 3424804.0,
+      "predicted": 883540.8736398485,
+      "baseline": 3343660.0,
+      "abs_err": 2541263.1263601515
+    }
+  ],
+  "error_worst": [
+    {
+      "monument": "Taj Mahal",
+      "actual": 6909849.0,
+      "predicted": 1760205.8209293853,
+      "baseline": 6780215.0,
+      "abs_err": 5149643.179070614
+    },
+    {
+      "monument": "Sun Temple, Konarak",
+      "actual": 3576348.0,
+      "predicted": 819933.2305187848,
+      "baseline": 3201973.0,
+      "abs_err": 2756414.769481215
+    },
+    {
+      "monument": "Qutub Minar",
+      "actual": 3424804.0,
+      "predicted": 883540.8736398485,
+      "baseline": 3343660.0,
+      "abs_err": 2541263.1263601515
+    },
+    {
+      "monument": "Red Fort",
+      "actual": 2963710.0,
+      "predicted": 1255425.8539576486,
+      "baseline": 2878260.0,
+      "abs_err": 1708284.1460423514
+    },
+    {
+      "monument": "Tomb of Rabia Dura ni (Bibi Ka Maqbara)",
+      "actual": 2015147.0,
+      "predicted": 366015.70011919335,
+      "baseline": 1304682.0,
+      "abs_err": 1649131.2998808066
+    }
+  ]
+}
