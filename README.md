@@ -6,7 +6,6 @@ A traveler talks in chat. The **OpenAI brain** interprets the trip, asks for mis
 
 **Live crowd number (when an ASI monument series exists):** last observed financial-year total (**persistence**). Offline experiments (Ridge / RF / GB / a small MLP) lost to this baseline on chronological ASI splits, so they are **not** in the live path.
 
-Repo: [github.com/Prathmesh3373/PiedPiper](https://github.com/Prathmesh3373/PiedPiper)
 
 ---
 
